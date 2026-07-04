@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "6f738187ce40e3c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "72159fad9fae1d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7627d3335007dae3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "555b9b5de20ee303",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f52836af8655b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d824aac1dc4b170",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "28d603661fd3ecce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d02e85d8339e846c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5235a7018ed93dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f3c46faab906676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431753ea5da00d55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7964fc8830b739c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c5e587d5a0d9b68f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ef238343058f661",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e74128153553c52a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d824aac1dc4b170",
+  "lastOpenFiles": [
+    "study/Study Plan.md",
+    "study/Study Dashboard.md",
+    "study/kafka/concepts/diagrams/kafka-topic-log.excalidraw.md",
+    "study/kafka/concepts/diagrams/kafka-partitions.excalidraw.md",
+    "study/kafka/concepts/diagrams/kafka-overview.excalidraw.md",
+    "study/kafka/concepts/diagrams/kafka-key-routing.excalidraw.md",
+    "study/kafka/concepts/diagrams/kafka-consumer-groups.excalidraw.md",
+    "study/kafka/concepts/what-is-kafka.md",
+    "study/kafka/concepts/topics.md",
+    "study/kafka/concepts/partitions.md",
+    "study/kafka/concepts/kafka-events.md",
+    "study/kafka/concepts/diagrams",
+    "study/kafka/concepts",
+    "study/kafka/README.md",
+    "study/kafka",
+    "study/HOW.md",
+    "study/ai-engineering-path/concepts/images/KL divergence and PEFT in RLHF.png",
+    "study/ai-engineering-path/concepts/images/RLHF.png",
+    "study/ai-engineering-path/concepts/images/KL Divergence.png",
+    "study/ai-engineering-path/concepts/designs/reinforcement_learning.excalidraw.md",
+    "study/ai-engineering-path/concepts/designs/RLHF.excalidraw.md",
+    "study/ai-engineering-path/projects/p9-capstone.md",
+    "study/ai-engineering-path/projects/p8-ci-eval-pipeline.md",
+    "study/ai-engineering-path/projects/p7-research-agent.md",
+    "study/ai-engineering-path/projects/p6-finetuning-memo.md",
+    "study/ai-engineering-path/projects/p5-eval-harness.md",
+    "study/ai-engineering-path/projects/p4-rag-v2-evaluated.md",
+    "study/ai-engineering-path/projects/p3-rag-v1.md",
+    "study/ai-engineering-path/projects/p2-semantic-search.md",
+    "study/ai-engineering-path/projects/p1-llm-json-extractor.md",
+    "study/ai-engineering-path/projects/README.md",
+    "study/ai-engineering-path/weeks/week-18.md",
+    "study/ai-engineering-path/concepts/images",
+    "study/ai-engineering-path/concepts/designs",
+    "study/ai-engineering-path/projects",
+    "study/ai-engineering-path/weeks",
+    "study/ai-engineering-path/concepts",
+    "study/ai-engineering-path",
+    "study"
+  ]
+}
