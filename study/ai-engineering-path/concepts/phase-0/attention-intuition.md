@@ -76,4 +76,4 @@ I can explain the intuition. I can't derive it from scratch. That's fine for an 
 
 ---
 
-*Back to [[../02-progress-tracker]] · [[../weeks/week-02]]*
+*Back to [[02-progress-tracker]] · [[week-02]]*

@@ -61,10 +61,10 @@ tags:
 - Did:
 - Learned:
 
-### Session 2 — _date_
-- Duration:
-- Did:
-- Learned:
+### Session 2 — wed July 8
+- Duration: 20 min
+- Did: watched course videos
+- Learned: Principles of prompt engineering like give model clear / structured instructions and time to think for the solution
 
 ### Session 3 — _date_
 - Duration:
@@ -75,9 +75,9 @@ tags:
 
 ## 🧠 Concept notes captured
 
-| Concept | Confidence (L/M/H) | Note |
-|---------|--------------------|------|
-| | | [[]] |
+| Concept            | Confidence (L/M/H) | Note                   |
+| ------------------ | ------------------ | ---------------------- |
+| prompt engineering | M                  | [[prompt engineering]] |
 
 ---
 

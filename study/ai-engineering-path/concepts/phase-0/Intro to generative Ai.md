@@ -30,4 +30,4 @@ tags:
 
 ---
 
-*From [[../weeks/week-01]] · Path: [[../README]]*
+*From [[week-01]] · Path: [[study/ai-engineering-path/README]]*

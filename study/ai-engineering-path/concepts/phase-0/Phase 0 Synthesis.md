@@ -157,4 +157,4 @@ Can explain all five from memory, place them on the build-vs-adapt and weights-v
 
 ---
 
-*Back to [[../02-progress-tracker]] · [[../weeks/week-04]]*
+*Back to [[02-progress-tracker]] · [[week-04]]*

@@ -112,8 +112,8 @@ Can explain each optimization technique, the three LLM limitations, and how RAG/
 
 - [[In-Context Learning]] — CoT builds on one/few-shot prompting
 - [[Fine Tuning]] — alternative to RAG for adapting model behavior
-- [[../weeks/week-04]]
+- [[week-04]]
 
 ---
 
-*Back to [[../02-progress-tracker]] · [[../weeks/week-04]]*
+*Back to [[02-progress-tracker]] · [[week-04]]*

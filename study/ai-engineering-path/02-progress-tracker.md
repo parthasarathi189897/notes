@@ -2,20 +2,20 @@
 type: study-path-tracker
 parent: "[[README]]"
 status: in-progress
-streak_weeks: 2
-weeks_completed: 1
+streak_weeks: 3
+weeks_completed: 3
 weeks_slipped: 1
 weeks_total: 50
 study_weeks: 46
 buffer_weeks: 4
 projects_shipped: 0
 projects_total: 9
-hours_logged: 5.08
+hours_logged: 6.75
 hours_target: 175
 monthly_api_cost: 0
 monthly_api_budget: 10
 created: 2026-05-29
-updated: 2026-06-26
+updated: 2026-07-04
 tags:
   - study
   - ai-engineering
@@ -33,17 +33,17 @@ tags:
 ## 🔥 Quick stats
 
 ```
-Weeks complete:    0 / 50   [▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱]   0%
+Weeks complete:    3 / 50   [▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱]   6%
 Projects shipped:  0 / 9    [▱▱▱▱▱▱▱▱▱]                                            0%
-Courses done:      0 / 16   [▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱]                                     0%
-Hours logged:      5.08 / 175  (W1: ~1h est + W2: 0.83h + W3: 1.33h + W4: 1.92h)
-Current streak:    2 weeks  (W3 + W4)
-Longest streak:    2 weeks
-Last study date:   2026-06-26 (W4 Session 3)
+Courses done:      1 / 16   [▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱]                                     6%
+Hours logged:      6.75 / 175  (W1: ~1h + W2: 0.83h + W3: 1.33h + W4: 1.92h + W5: 1.67h)
+Current streak:    3 weeks  (W3 + W4 + W5)
+Longest streak:    3 weeks
+Last study date:   2026-07-04 (W5 Session 2)
 API cost (month):  $0 / $10
-Next milestone:    C1 done — W4 (Jun 28, 2026) — ✅ content + synthesis done
+Next milestone:    First project shipped (P1) — W10 (Aug 9, 2026).  C1 ✅ done.
 ```
-> Updated: 2026-06-26
+> Updated: 2026-07-04
 
 > Update these numbers every Sunday. Visible progress = compound motivation.
 
@@ -51,15 +51,15 @@ Next milestone:    C1 done — W4 (Jun 28, 2026) — ✅ content + synthesis don
 
 ## 🎯 This week's commitment
 
-**Week #:** 4
-**Phase:** 0 — Foundation
-**Course:** C1 GenAI w/ LLMs (4/4) — deployment + tooling + agents + synthesis
-**Project work:** —
+**Week #:** 5
+**Phase:** 0 — Foundation (Python / tooling ramp)
+**Course:** — (Python ramp: uv, Pydantic, first LLM call, async/httpx)
+**Project work:** `aieng-sandbox` (local)
 **Time budget:** 3.5h
-**Weekly note:** [[weeks/week-04]]
+**Weekly note:** [[weeks/week-05]]
 
-> ✅ Course content done (deployment, RAG/CoT/PAL/ReAct, LangChain). ✅ Phase 0 synthesis note written → [[concepts/Phase 0 Synthesis]]. Phase 0 exit criteria met.
-> Updated: 2026-06-26
+> 🔵 In progress. uv + Pydantic + Ollama models set up; first LLM call + pytest done; async/httpx + event-loop concept notes written. 1.67h across 2 sessions. Week ends Jul 5.
+> Updated: 2026-07-04
 
 ---
 
@@ -74,8 +74,8 @@ Legend: ⬜ Not started · 🔵 In progress · ✅ Done · ⏭️ Skipped · ⚠
 | 1    | Jun 1-7, 2026  | C1 GenAI w/ LLMs (1/4)           | —       | 1.0  | ✅ Done | [[weeks/week-01]] |
 | 2    | Jun 8-14       | C1 (2/4)                         | —       | 0.83 | ⚠️     | [[weeks/week-02]] |
 | 3    | Jun 15-21      | C1 (2/4 finish + 3/4) ← catch-up | —       | 1.33 | ✅ Done | [[weeks/week-03]] |
-| 4    | Jun 22-28      | C1 (4/4) + synthesis             | —       | 1.92 | 🔵     | [[weeks/week-04]] |
-| 5    | Jun 29 - Jul 5 | — (Python ramp)                  | —       | 0    | ⬜      | [[weeks/week-05]] |
+| 4    | Jun 22-28      | C1 (4/4) + synthesis             | —       | 1.92 | ✅ Done | [[weeks/week-04]] |
+| 5    | Jun 29 - Jul 5 | — (Python ramp)                  | —       | 1.67 | 🔵     | [[weeks/week-05]] |
 
 ### Phase 1 — LLM App Basics (W6-10)
 
@@ -218,7 +218,7 @@ Legend: ⬜ Not started · 🔵 In progress · ✅ Done · ⏭️ Skipped · ⚠
 
 | # | Course | Weeks | Status |
 |---|--------|-------|--------|
-| 1 | GenAI with LLMs | W1-4 | ⬜ |
+| 1 | GenAI with LLMs | W1-4 | ✅ |
 | 2 | ChatGPT Prompt Engineering | W6-7 | ⬜ |
 | 3 | Building Systems with ChatGPT API | W8-9 | ⬜ |
 | 4 | Vector DBs from Embeddings | W11-12 | ⬜ |
@@ -243,16 +243,19 @@ Legend: ⬜ Not started · 🔵 In progress · ✅ Done · ⏭️ Skipped · ⚠
 
 | # | Concept | Phase | Confidence | Note |
 |---|---------|-------|------------|------|
-| 0 | Sampling Parameters | 0 | H | [[concepts/sampling-parameters]] |
-| 0 | Attention Intuition | 0 | M | [[concepts/attention-intuition]] |
-| 0 | LLM Fundamentals | 0 | M | [[concepts/LLM Fundamentals]] |
-| 0 | Transformer Architecture | 0 | M | [[concepts/Transformer Architecture]] |
-| 0 | In-Context Learning | 0 | M | [[concepts/In-Context Learning]] |
-| 0 | Fine Tuning | 0 | M | [[concepts/Fine Tuning]] |
-| 0 | Model Evaluation | 0 | M | [[concepts/Model Evaluation]] |
-| 0 | Reinforcement Learning from Human Feedback | 0 | L | [[concepts/Reinforcement learning - Human feedback]] |
-| 0 | LLM Application (optimization, tooling, agents) | 0 | H | [[concepts/LLM Application]] |
-| 0 | Phase 0 Synthesis (pretrain/IT/RLHF/FT/RAG) | 0 | H | [[concepts/Phase 0 Synthesis]] |
+| 0 | Sampling Parameters | 0 | H | [[concepts/phase-0/sampling-parameters\|sampling-parameters]] |
+| 0 | Attention Intuition | 0 | M | [[concepts/phase-0/attention-intuition\|attention-intuition]] |
+| 0 | LLM Fundamentals | 0 | M | [[concepts/phase-0/LLM Fundamentals\|LLM Fundamentals]] |
+| 0 | Transformer Architecture | 0 | M | [[concepts/phase-0/Transformer Architecture\|Transformer Architecture]] |
+| 0 | In-Context Learning | 0 | M | [[concepts/phase-0/In-Context Learning\|In-Context Learning]] |
+| 0 | Fine Tuning | 0 | M | [[concepts/phase-0/Fine Tuning\|Fine Tuning]] |
+| 0 | Model Evaluation | 0 | M | [[concepts/phase-0/Model Evaluation\|Model Evaluation]] |
+| 0 | Reinforcement Learning from Human Feedback | 0 | L | [[concepts/phase-0/Reinforcement learning - Human feedback\|RLHF]] |
+| 0 | LLM Application (optimization, tooling, agents) | 0 | H | [[concepts/phase-0/LLM Application\|LLM Application]] |
+| 0 | Phase 0 Synthesis (pretrain/IT/RLHF/FT/RAG) | 0 | H | [[concepts/phase-0/Phase 0 Synthesis\|Phase 0 Synthesis]] |
+| 1 | Pydantic | 1 | M | [[concepts/phase-1/pydantic\|pydantic]] |
+| 1 | Async / await & httpx | 1 | M | [[concepts/phase-1/async + httpx in python\|async + httpx in python]] |
+| 1 | Event Loop — E2E trace | 1 | L | [[concepts/phase-1/event-loop-step-by-step\|event-loop-step-by-step]] |
 
 ---
 
@@ -284,7 +287,8 @@ Legend: ⬜ Not started · 🔵 In progress · ✅ Done · ⏭️ Skipped · ⚠
 | Week | Dates | Hours | Sessions | Streak | Note |
 |------|-------|-------|----------|--------|------|
 | W3 | Jun 15-21, 2026 | 1.33 | 3 | 1 | Content done; hours below target (1.33/4h) |
-| W4 | Jun 22-28, 2026 | 1.92 | 3 | 2 | C1 (4/4) content done — deployment, RAG/CoT/PAL/ReAct, LangChain. Synthesis note pending |
+| W4 | Jun 22-28, 2026 | 1.92 | 3 | 2 | C1 (4/4) content done — deployment, RAG/CoT/PAL/ReAct, LangChain. Synthesis note written → Phase 0 exit criteria met |
+| W5 | Jun 29 - Jul 5, 2026 | 1.67 | 2 | 3 | Python ramp: uv + Pydantic + Ollama models set up; first LLM call + pytest; async/httpx + event-loop notes. (Week in progress) |
 
 ---
 
@@ -293,7 +297,7 @@ Legend: ⬜ Not started · 🔵 In progress · ✅ Done · ⏭️ Skipped · ⚠
 | Milestone | Target | Hit | Reward |
 |-----------|--------|-----|--------|
 | Python ramp done | W1 (Jun 7, 2026) | — | First commit to aieng-sandbox |
-| First course done (C1) | W5 (Jul 5) | — | Public LinkedIn post |
+| First course done (C1) | W5 (Jul 5) | ✅ 2026-06-28 | Public LinkedIn post |
 | First project shipped (P1) | W10 (Aug 9) | — | Tweet / share repo |
 | Quarter done (12/50) | W12 (Aug 30) | — | Day off, no guilt |
 | RAG v1 live (P3) | W23 (Nov 22) | — | Demo to a friend |

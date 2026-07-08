@@ -85,9 +85,9 @@ tags:
 
 | Concept                              | Confidence (L/M/H) | Note                                                      |
 | ------------------------------------ | ------------------ | --------------------------------------------------------- |
-| Fine Tuning                          | M                  | [[../concepts/Fine Tuning]]                               |
-| Model Evaluation                     | M                  | [[../concepts/Model Evaluation]]                          |
-| Reinforcement Learning from Human Feedback | L            | [[../concepts/Reinforcement learning - Human feedback]]   |
+| Fine Tuning                          | M                  | [[../concepts/phase-0/Fine Tuning]]                          |
+| Model Evaluation                     | M                  | [[../concepts/phase-0/Model Evaluation]]                     |
+| Reinforcement Learning from Human Feedback | L            | [[../concepts/phase-0/Reinforcement learning - Human feedback]] |
 
 ---
 

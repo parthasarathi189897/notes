@@ -7,9 +7,9 @@ total_weeks: 50
 hours_per_week: 3-4
 start_date: 2026-06-01
 target_end: 2027-05-16
-status: not-started
+status: in-progress
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-07-04
 tags:
   - study
   - ai-engineering
@@ -70,9 +70,11 @@ ai-engineering-path/
 │   ├── _template.md                # Reference template
 │   ├── _example-filled.md          # ⭐ Example completed week (read first!)
 │   └── week-01.md ... week-46.md   # 46 study weeks + 4 buffer weeks
-└── concepts/                       # Concept notes (created as you learn)
-    ├── sampling-parameters.md      # Example concept note
-    └── attention-intuition.md      # Example concept note
+└── concepts/                       # Concept notes, organized by phase
+    ├── phase-0/                    # Foundation: LLM fundamentals, transformers, RLHF, ...
+    ├── phase-1/                    # LLM app basics: pydantic, async/httpx, event loop
+    ├── designs/                    # Mermaid / Excalidraw diagrams
+    └── images/                     # Diagram exports
 ```
 
 ---

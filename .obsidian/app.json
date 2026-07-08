@@ -1,1 +1,5 @@
-{}
+{
+  "textFont": "Georgia",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
+}

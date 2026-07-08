@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "Minimal",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "layout"
+  ]
+}

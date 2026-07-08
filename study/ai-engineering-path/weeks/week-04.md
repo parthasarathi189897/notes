@@ -7,10 +7,10 @@ course: "C1 GenAI w/ LLMs (4/4) + Synthesis"
 project: "—"
 hours_target: 3.5
 hours_logged: 1.92
-status: in-progress
+status: done
 streak_before: 1
 created: 2026-05-29
-updated: 2026-06-26
+updated: 2026-07-04
 tags:
   - study
   - ai-engineering
@@ -40,7 +40,7 @@ tags:
 > 3 max.
 
 - [x] **Course:** Complete C1 (4/4) — deployment, scaling, real-world considerations ✅ 2026-06-26
-- [x] **Synthesis:** Write 1-page note: "Pretraining vs Instruction-Tuning vs RLHF vs Fine-Tuning vs RAG" — in plain English, no notes ✅ 2026-06-26 → [[../concepts/Phase 0 Synthesis]]
+- [x] **Synthesis:** Write 1-page note: "Pretraining vs Instruction-Tuning vs RLHF vs Fine-Tuning vs RAG" — in plain English, no notes ✅ 2026-06-26 → [[../concepts/phase-0/Phase 0 Synthesis|Phase 0 Synthesis]]
 - [x] **Notes:** 1 concept note (deployment / scaling, or whichever C1 (4/4) topic sticks) ✅ 2026-06-26
 
 ---
@@ -79,8 +79,8 @@ tags:
 
 | Concept                                              | Confidence (L/M/H) | Note                            |
 | ---------------------------------------------------- | ------------------ | ------------------------------- |
-| LLM Application (optimization, tooling, agents)      | H                  | [[../concepts/LLM Application]] |
-| Phase 0 Synthesis (pretrain/IT/RLHF/FT/RAG)          | H                  | [[../concepts/Phase 0 Synthesis]] |
+| LLM Application (optimization, tooling, agents)      | H                  | [[../concepts/phase-0/LLM Application]]   |
+| Phase 0 Synthesis (pretrain/IT/RLHF/FT/RAG)          | H                  | [[../concepts/phase-0/Phase 0 Synthesis]] |
 
 > Covered: model optimization (distillation / quantization / pruning), LLM limitations (cut-off, complex math, hallucination), and the fixes — RAG, Chain-of-Thought, PAL, ReAct agent loop, LangChain.
 
@@ -135,7 +135,7 @@ tags:
 ## 🎯 Phase 0 exit criteria (check before moving to W5)
 
 - [x] Can explain pretraining vs instruction-tuning vs RLHF vs fine-tuning vs RAG in plain English
-- [x] Synthesis note written (`concepts/` folder) → [[../concepts/Phase 0 Synthesis]]
+- [x] Synthesis note written (`concepts/` folder) → [[../concepts/phase-0/Phase 0 Synthesis|Phase 0 Synthesis]]
 - [x] C1 completed (all 4 parts)
 - [x] At least 4-5 concept notes in `concepts/`
 

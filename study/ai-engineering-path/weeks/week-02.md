@@ -81,9 +81,9 @@ tags:
 
 | Concept             | Confidence (L/M/H) | Note                             |
 | ------------------- | ------------------ | -------------------------------- |
-| Pre training of LLM | M                  | [[../concepts/Pre training]]     |
-| Evaluation of LLM   | M                  | [[../concepts/Model Evaluation]] |
-| Fine Tuning         | M                  | [[../concepts/Fine Tuning]]      |
+| Pre training of LLM | M                  | [[../concepts/phase-0/Pre training]]     |
+| Evaluation of LLM   | M                  | [[../concepts/phase-0/Model Evaluation]] |
+| Fine Tuning         | M                  | [[../concepts/phase-0/Fine Tuning]]      |
 
 ---
 

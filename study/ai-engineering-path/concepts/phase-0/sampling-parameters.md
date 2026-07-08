@@ -84,4 +84,4 @@ I understand the tradeoffs, can pick the right settings for each use case, and k
 
 ---
 
-*Back to [[../02-progress-tracker]] · [[../weeks/week-01]]*
+*Back to [[02-progress-tracker]] · [[week-01]]*

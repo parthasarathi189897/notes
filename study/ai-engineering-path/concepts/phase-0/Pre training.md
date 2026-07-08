@@ -105,4 +105,4 @@ I can explain the three families and pick the right one for a use case. I can't 
 
 ---
 
-*Back to [[../02-progress-tracker]] · [[../weeks/week-02]]*
+*Back to [[02-progress-tracker]] · [[week-02]]*
