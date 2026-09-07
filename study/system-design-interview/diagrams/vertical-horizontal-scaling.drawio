@@ -1,0 +1,246 @@
+<mxfile host="drawio" modified="2026-06-02T10:00:00.000Z" agent="Wibey CLI" version="14.0">
+  <diagram id="vertical-horizontal-scaling" name="Vertical vs Horizontal Scaling">
+    <mxGraphModel dx="1422" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- ============ TITLE ============ -->
+        <mxCell id="title" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Vertical vs Horizontal Scaling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="350" y="15" width="500" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- ============ VERTICAL SCALING CONTAINER ============ -->
+        <!-- Section background -->
+        <mxCell id="v-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F4FA;strokeColor=#B0BEC5;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="570" height="780" as="geometry"/>
+        </mxCell>
+
+        <!-- Section title -->
+        <mxCell id="v-title" value="&lt;font style=&quot;font-size: 18px&quot;&gt;⬆ Vertical Scaling (Scale Up)&lt;/font&gt;" style="text;html=1;fontStyle=1;fontColor=#1B5E20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="85" width="400" height="35" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="v-desc" value="Add more CPU, RAM, disk to a &lt;b&gt;single machine&lt;/b&gt;" style="text;html=1;fontSize=13;fontColor=#37474F;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="118" width="400" height="25" as="geometry"/>
+        </mxCell>
+
+        <!-- User -->
+        <mxCell id="v-user" value="User" style="shape=mxgraph.basic.smiley;whiteSpace=wrap;html=1;fillColor=#E8EAF6;strokeColor=#5C6BC0;fontColor=#1A237E;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="155" width="50" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow from user to server 1 -->
+        <mxCell id="v-user-arrow" value="" style="endArrow=block;endFill=1;strokeColor=#5C6BC0;strokeWidth=2;" edge="1" parent="1" source="v-user" target="v-server1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 1 (small) -->
+        <mxCell id="v-server1" value="&lt;b&gt;Server&lt;/b&gt;&#xa;1 CPU | 4 GB RAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=13;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="130" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Upgrade arrow 1 -->
+        <mxCell id="v-arrow1" value="&lt;font color=&quot;#4527A0&quot;&gt;⬇ Upgrade hardware&lt;/font&gt;" style="endArrow=block;endFill=1;strokeColor=#4527A0;strokeWidth=2;html=1;fontSize=12;labelBackgroundColor=#F0F4FA;" edge="1" parent="1" source="v-server1" target="v-server2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 2 (medium) -->
+        <mxCell id="v-server2" value="&lt;b&gt;Server&lt;/b&gt;&#xa;4 CPU | 16 GB RAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=13;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="225" y="350" width="160" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- Upgrade arrow 2 -->
+        <mxCell id="v-arrow2" value="&lt;font color=&quot;#4527A0&quot;&gt;⬇ Upgrade hardware&lt;/font&gt;" style="endArrow=block;endFill=1;strokeColor=#4527A0;strokeWidth=2;html=1;fontSize=12;labelBackgroundColor=#F0F4FA;" edge="1" parent="1" source="v-server2" target="v-server3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 3 (large) -->
+        <mxCell id="v-server3" value="&lt;b&gt;Server&lt;/b&gt;&#xa;16 CPU | 64 GB RAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=14;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="190" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Limit indicator -->
+        <mxCell id="v-limit" value="⚠ Hardware limit reached" style="text;html=1;fontSize=13;fontStyle=1;fontColor=#BF360C;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="180" height="25" as="geometry"/>
+        </mxCell>
+
+        <!-- Vertical Pros container -->
+        <mxCell id="v-pros-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;strokeWidth=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="240" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-pros-title" value="&lt;font color=&quot;#1B5E20&quot;&gt;✅ Pros&lt;/font&gt;" style="text;html=1;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="605" width="100" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-pro1" value="• Simple implementation" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="220" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-pro2" value="• No distributed complexity" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="652" width="220" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-pro3" value="• Cost effective initially" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="60" y="674" width="220" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Vertical Cons container -->
+        <mxCell id="v-cons-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBEE;strokeColor=#C62828;strokeWidth=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="270" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-cons-title" value="&lt;font color=&quot;#B71C1C&quot;&gt;❌ Cons&lt;/font&gt;" style="text;html=1;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="605" width="100" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-con1" value="• Single point of failure (SPOF)" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-con2" value="• Hardware limits exist" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="320" y="652" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="v-con3" value="• Downtime during upgrades" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="320" y="674" width="250" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Key takeaway vertical -->
+        <mxCell id="v-takeaway" value="&lt;b&gt;Best for:&lt;/b&gt; Small apps, early-stage startups, databases (MySQL, Redis)" style="text;html=1;fontSize=12;fontColor=#37474F;align=center;fillColor=#FFF9C4;strokeColor=#F9A825;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="720" width="510" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- SPOF callout -->
+        <mxCell id="v-spof" value="&lt;b&gt;⚠ If this server goes down,&#xa;everything goes down!&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=15;position=0.5;position2=1;base=10;fillColor=#FFF3E0;strokeColor=#E65100;fontColor=#BF360C;fontSize=12;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="170" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- ============ DIVIDER ============ -->
+        <mxCell id="divider" value="" style="line;strokeWidth=3;strokeColor=#90A4AE;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="1" height="760" as="geometry"/>
+        </mxCell>
+        <mxCell id="vs-label" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#546E7A&quot;&gt;&lt;b&gt;VS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;fillColor=#ECEFF1;rounded=1;strokeColor=#90A4AE;" vertex="1" parent="1">
+          <mxGeometry x="605" y="430" width="35" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ============ HORIZONTAL SCALING CONTAINER ============ -->
+        <!-- Section background -->
+        <mxCell id="h-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF8E1;strokeColor=#F9A825;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="620" height="780" as="geometry"/>
+        </mxCell>
+
+        <!-- Section title -->
+        <mxCell id="h-title" value="&lt;font style=&quot;font-size: 18px&quot;&gt;↔ Horizontal Scaling (Scale Out)&lt;/font&gt;" style="text;html=1;fontStyle=1;fontColor=#E65100;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="85" width="400" height="35" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="h-desc" value="Add more &lt;b&gt;identical machines&lt;/b&gt; behind a load balancer" style="text;html=1;fontSize=13;fontColor=#37474F;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="118" width="400" height="25" as="geometry"/>
+        </mxCell>
+
+        <!-- Users -->
+        <mxCell id="h-user1" value="Users" style="shape=mxgraph.basic.smiley;whiteSpace=wrap;html=1;fillColor=#E8EAF6;strokeColor=#5C6BC0;fontColor=#1A237E;fontSize=12;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="155" width="50" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow from users to LB -->
+        <mxCell id="h-user-arrow" value="&lt;font color=&quot;#5C6BC0&quot;&gt;Requests&lt;/font&gt;" style="endArrow=block;endFill=1;strokeColor=#5C6BC0;strokeWidth=2;html=1;fontSize=12;labelBackgroundColor=#FFF8E1;" edge="1" parent="1" source="h-user1" target="lb">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Load Balancer -->
+        <mxCell id="lb" value="&lt;b&gt;Load Balancer&lt;/b&gt;&#xa;(distributes traffic)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E65100;fontColor=#FFFFFF;fontSize=13;strokeColor=#BF360C;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="245" width="140" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow LB to Server 1 -->
+        <mxCell id="h-arrow1" value="" style="endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lb" target="h-server1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow LB to Server 2 -->
+        <mxCell id="h-arrow2" value="" style="endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;" edge="1" parent="1" source="lb" target="h-server2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Arrow LB to Server 3 -->
+        <mxCell id="h-arrow3" value="" style="endArrow=block;endFill=1;strokeColor=#E65100;strokeWidth=2;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lb" target="h-server3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 1 -->
+        <mxCell id="h-server1" value="&lt;b&gt;Server 1&lt;/b&gt;&#xa;2 CPU | 8 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=13;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="720" y="370" width="110" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 2 -->
+        <mxCell id="h-server2" value="&lt;b&gt;Server 2&lt;/b&gt;&#xa;2 CPU | 8 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=13;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="370" width="110" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Server 3 -->
+        <mxCell id="h-server3" value="&lt;b&gt;Server 3&lt;/b&gt;&#xa;2 CPU | 8 GB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1565C0;fontColor=#FFFFFF;fontSize=13;strokeColor=#0D47A1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="370" width="110" height="60" as="geometry"/>
+        </mxCell>
+
+        <!-- Add more indicator -->
+        <mxCell id="h-more" value="&lt;font color=&quot;#4527A0&quot;&gt;&lt;b&gt;+ Add more servers as needed →&lt;/b&gt;&lt;/font&gt;" style="text;html=1;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="830" y="455" width="260" height="25" as="geometry"/>
+        </mxCell>
+
+        <!-- Fault tolerance callout -->
+        <mxCell id="h-fault" value="&lt;b&gt;✓ If Server 1 fails,&#xa;Server 2 &amp; 3 keep running!&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=15;position=0.1;position2=1;base=10;fillColor=#E8F5E9;strokeColor=#2E7D32;fontColor=#1B5E20;fontSize=12;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="190" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- Horizontal Pros container -->
+        <mxCell id="h-pros-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#2E7D32;strokeWidth=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="670" y="555" width="270" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-pros-title" value="&lt;font color=&quot;#1B5E20&quot;&gt;✅ Pros&lt;/font&gt;" style="text;html=1;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="100" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-pro1" value="• No single point of failure" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="585" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-pro2" value="• Virtually unlimited scalability" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="607" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-pro3" value="• Better fault tolerance" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="629" width="250" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-pro4" value="• No downtime for scaling" style="text;html=1;fontSize=13;fontColor=#1B5E20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="651" width="250" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Horizontal Cons container -->
+        <mxCell id="h-cons-box" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFEBEE;strokeColor=#C62828;strokeWidth=1;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="960" y="555" width="290" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-cons-title" value="&lt;font color=&quot;#B71C1C&quot;&gt;❌ Cons&lt;/font&gt;" style="text;html=1;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="560" width="100" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-con1" value="• Distributed systems complexity" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="970" y="585" width="270" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-con2" value="• Data consistency challenges" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="970" y="607" width="270" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-con3" value="• Higher operational overhead" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="970" y="629" width="270" height="22" as="geometry"/>
+        </mxCell>
+        <mxCell id="h-con4" value="• Need session management" style="text;html=1;fontSize=13;fontColor=#B71C1C;" vertex="1" parent="1">
+          <mxGeometry x="970" y="651" width="270" height="22" as="geometry"/>
+        </mxCell>
+
+        <!-- Key takeaway horizontal -->
+        <mxCell id="h-takeaway" value="&lt;b&gt;Best for:&lt;/b&gt; Large-scale web apps, microservices, stateless services" style="text;html=1;fontSize=12;fontColor=#37474F;align=center;fillColor=#FFF9C4;strokeColor=#F9A825;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="695" width="540" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- ============ BOTTOM SUMMARY ============ -->
+        <mxCell id="summary-bg" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E3F2FD;strokeColor=#1565C0;strokeWidth=2;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="770" width="1240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="summary" value="&lt;b&gt;💡 Key Insight:&lt;/b&gt; Real-world systems use &lt;b&gt;BOTH&lt;/b&gt; — scale up your database (vertical), scale out your web/app tier (horizontal). Start vertical for simplicity, go horizontal when you hit limits." style="text;html=1;fontSize=14;fontColor=#0D47A1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="775" width="1200" height="60" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
