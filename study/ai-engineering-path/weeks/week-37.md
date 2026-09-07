@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 37
 phase: 6
-dates: "Feb 8-14, 2027"
+dates: "Apr 19-25, 2027"
 course: "C12 Post-training (RL/RLHF intro)"
 project: "Memo outline"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 37 — Phase 6: Fine-tuning
 
-> Dates: **Feb 8-14, 2027**
+> Dates: **Apr 19-25, 2027**
 > Course: **C12 Post-training (RL/RLHF intro)**
+> 📚 Course: [Fine-tuning & RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/) — DeepLearning.AI
 > Project: **Memo outline**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p6-finetuning-memo]]

@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: B4
 phase: buffer
-dates: "Mar 29 - Apr 4, 2027"
+dates: "May 17-23, 2027"
 course: "—"
 project: "—"
 hours_target: 2
@@ -17,7 +17,7 @@ tags:
   - spring-reset
 ---
 
-# Buffer 4 — Spring Reset (Mar 29 - Apr 4)
+# Buffer 4 — Reset Before Capstone (May 17-23)
 
 > Between Phase 7 (Agents) and Phase 8 (Production + Capstone).
 > **Mental reset before the final push.** Recharge, then ship.

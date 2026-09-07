@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 30
 phase: 4
-dates: "Dec 21-27, 2026"
+dates: "Mar 1-7, 2027"
 course: "(build week)"
 project: "P4 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 30 — Phase 4: Adv Retrieval
 
-> Dates: **Dec 21-27, 2026**
+> Dates: **Mar 1-7, 2027**
+> 🔨 Build week: Ship P4 (RAG v2 + golden set).
 > Course: **(build week)**
 > Project: **P4 SHIP**
 > Time budget: **3-4h**

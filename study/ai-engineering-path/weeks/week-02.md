@@ -23,6 +23,7 @@ tags:
 
 > Dates: **Jun 8-14, 2026**
 > Course: **C1 GenAI w/ LLMs (2/4)**
+> 📚 Course: [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) — DeepLearning.AI + AWS (Coursera)
 > Project: **—**
 > Time budget: **3-4h**
 
@@ -39,7 +40,7 @@ tags:
 
 > Set on Monday. 3 max.
 
-- [ ] **Course:** complete this week's lessons
+- [x] **Course:** complete this week's lessons ✅ 2026-07-07
 - [x] **Practice:** small code experiment from course labs ✅ 2026-06-11
 - [x] **Notes:** 1-2 concept notes ✅ 2026-06-11
 
@@ -81,9 +82,9 @@ tags:
 
 | Concept             | Confidence (L/M/H) | Note                             |
 | ------------------- | ------------------ | -------------------------------- |
-| Pre training of LLM | M                  | [[../concepts/phase-0/Pre training]]     |
-| Evaluation of LLM   | M                  | [[../concepts/phase-0/Model Evaluation]] |
-| Fine Tuning         | M                  | [[../concepts/phase-0/Fine Tuning]]      |
+| Pre training of LLM | M                  | [[../concepts/Pre training]]     |
+| Evaluation of LLM   | M                  | [[../concepts/Model Evaluation]] |
+| Fine Tuning         | M                  | [[../concepts/Fine Tuning]]      |
 
 ---
 

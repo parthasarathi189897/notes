@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 15
 phase: 2
-dates: "Sep 7-13, 2026"
+dates: "Nov 9-15, 2026"
 course: "(build week)"
 project: "P2 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 15 — Phase 2: Embeddings
 
-> Dates: **Sep 7-13, 2026**
+> Dates: **Nov 9-15, 2026**
+> 🔨 Build week: Ship P2 (semantic search + eval).
 > Course: **(build week)**
 > Project: **P2 SHIP**
 > Time budget: **3-4h**

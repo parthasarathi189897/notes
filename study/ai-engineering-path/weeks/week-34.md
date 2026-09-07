@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 34
 phase: 5
-dates: "Jan 18-24, 2027"
+dates: "Mar 29 - Apr 4, 2027"
 course: "(build week)"
 project: "P5 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 34 — Phase 5: Accuracy
 
-> Dates: **Jan 18-24, 2027**
+> Dates: **Mar 29 - Apr 4, 2027**
+> 🔨 Build week: Ship P5 (eval harness).
 > Course: **(build week)**
 > Project: **P5 SHIP**
 > Time budget: **3-4h**

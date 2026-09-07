@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 21
 phase: 3
-dates: "Oct 19-25, 2026"
+dates: "Dec 21-27, 2026"
 course: "C6 RAG (6/9)"
 project: "P3 ingestion"
 hours_target: 3.5
@@ -19,10 +19,11 @@ tags:
 
 # Week 21 — Phase 3: Core RAG
 
-> Dates: **Oct 19-25, 2026**
+> Dates: **Dec 21-27, 2026** 🎄 *Christmas week — be realistic, 0-2h is fine. Don't force it.*
 > Course: **C6 RAG (6/9)**
+> 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **P3 ingestion**
-> Time budget: **3-4h**
+> Time budget: **1-2h (holiday-adjusted)**
 > Project spec: [[../projects/p3-rag-v1]]
 
 ---

@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 42
 phase: 7
-dates: "Mar 15-21, 2027"
+dates: "May 31 - Jun 6, 2027"
 course: "C14 Evaluating Agents (2/2)"
 project: "P7 tool integration"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 42 — Phase 7: Agents
 
-> Dates: **Mar 15-21, 2027**
+> Dates: **May 31 - Jun 6, 2027**
 > Course: **C14 Evaluating Agents (2/2)**
+> 📚 Course: [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/lesson/sqkza/introduction) — DeepLearning.AI + Arize
 > Project: **P7 tool integration**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p7-research-agent]]

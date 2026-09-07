@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 48
 phase: 8
-dates: "Apr 26 - May 2, 2027"
+dates: "Jul 12-18, 2027"
 course: "(capstone)"
 project: "🎉 P9 CAPSTONE SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 48 — Phase 8: Production
 
-> Dates: **Apr 26 - May 2, 2027**
+> Dates: **Jul 12-18, 2027**
+> 🎓 Capstone: Deploy + demo video. P9 live.
 > Course: **(capstone)**
 > Project: **🎉 P9 CAPSTONE SHIP**
 > Time budget: **3-4h**

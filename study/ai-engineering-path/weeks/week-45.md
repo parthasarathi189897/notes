@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 45
 phase: 8
-dates: "Apr 5-11, 2027"
+dates: "Jun 21-27, 2027"
 course: "C15 LLMOps (2/2)"
 project: "Capstone scaffold"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 45 — Phase 8: Production
 
-> Dates: **Apr 5-11, 2027**
+> Dates: **Jun 21-27, 2027**
 > Course: **C15 LLMOps (2/2)**
+> 📚 Course: [LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/jupuw/introduction) — DeepLearning.AI + Google Cloud
 > Project: **Capstone scaffold**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p9-capstone]]

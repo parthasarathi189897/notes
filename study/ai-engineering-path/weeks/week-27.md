@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 27
 phase: 4
-dates: "Nov 30 - Dec 6, 2026"
+dates: "Feb 1-7, 2027"
 course: "C7 Advanced Retrieval (2/2)"
 project: "RAG v1 + 2 improvements"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 27 — Phase 4: Adv Retrieval
 
-> Dates: **Nov 30 - Dec 6, 2026**
+> Dates: **Feb 1-7, 2027**
 > Course: **C7 Advanced Retrieval (2/2)**
+> 📚 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction) — DeepLearning.AI + Chroma
 > Project: **RAG v1 + 2 improvements**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p4-rag-v2-evaluated]]

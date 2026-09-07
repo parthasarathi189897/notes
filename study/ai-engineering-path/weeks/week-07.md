@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 7
 phase: 1
-dates: "Jul 13-19, 2026"
+dates: "Aug 10-16, 2026"
 course: "C2 Prompt Engineering (2/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 7 — Phase 1: App Basics
 
-> Dates: **Jul 13-19, 2026**
+> Dates: **Aug 10-16, 2026**
 > Course: **C2 Prompt Engineering (2/2)**
+> 📚 Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction) — DeepLearning.AI
 > Project: **—**
 > Time budget: **3-4h**
 
@@ -37,9 +38,9 @@ tags:
 
 > Set on Monday. 3 max.
 
-- [ ] **Course:** complete this week's lessons
-- [ ] **Practice:** small code experiment from course labs
-- [ ] **Notes:** 1-2 concept notes
+- [x] **Course:** complete this week's lessons ✅ 2026-08-13
+- [x] **Practice:** small code experiment from course labs ✅ 2026-08-13
+- [x] **Notes:** 1-2 concept notes ✅ 2026-08-13
 
 ---
 
@@ -56,15 +57,15 @@ tags:
 
 ## 📝 Session log
 
-### Session 1 — _date_
-- Duration:
-- Did:
-- Learned:
+### Session 1 — Tue, 11 Aug
+- Duration: 30 min
+- Did: watched inferring and transforming prompts
+- Learned: Learned different prompt examples of inferring something from the given text input or transforming given text input with the help of prompt
 
-### Session 2 — _date_
-- Duration:
-- Did:
-- Learned:
+### Session 2 — Thu, 13 Aug
+- Duration: 30 min
+- Did: Watched the remaining videos
+- Learned: learned about the use of temperature and its impact on llm output, small chatbot using llm
 
 ### Session 3 — _date_
 - Duration:
@@ -126,4 +127,4 @@ tags:
 
 ---
 
-*Prev: [[week-06]] · Back to [[../02-progress-tracker]] · Next: [[week-08]]*
+*Prev: [[week-06]] · Back to [[../02-progress-tracker]] · Next: [[week-bt1]] (✈️ travel), then [[week-08]]*

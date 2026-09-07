@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 13
 phase: 2
-dates: "Aug 24-30, 2026"
+dates: "Oct 26 - Nov 1, 2026"
 course: "C5 Building Apps w/ VDBs (1/2)"
 project: "P2 scaffold"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 13 — Phase 2: Embeddings
 
-> Dates: **Aug 24-30, 2026**
+> Dates: **Oct 26 - Nov 1, 2026**
 > Course: **C5 Building Apps w/ VDBs (1/2)**
+> 📚 Course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/tl7on/introduction) — DeepLearning.AI + Pinecone
 > Project: **P2 scaffold**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p2-semantic-search]]

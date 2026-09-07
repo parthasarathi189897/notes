@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 18
 phase: 3
-dates: "Sep 28 - Oct 4, 2026"
+dates: "Nov 30 - Dec 6, 2026"
 course: "C6 RAG (3/9)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 18 — Phase 3: Core RAG
 
-> Dates: **Sep 28 - Oct 4, 2026**
+> Dates: **Nov 30 - Dec 6, 2026**
 > Course: **C6 RAG (3/9)**
+> 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **—**
 > Time budget: **3-4h**
 

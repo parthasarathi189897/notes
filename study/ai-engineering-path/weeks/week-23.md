@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 23
 phase: 3
-dates: "Nov 2-8, 2026"
+dates: "Jan 4-10, 2027"
 course: "C6 RAG (8/9)"
 project: "P3 generation"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 23 — Phase 3: Core RAG
 
-> Dates: **Nov 2-8, 2026**
+> Dates: **Jan 4-10, 2027**
 > Course: **C6 RAG (8/9)**
+> 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **P3 generation**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p3-rag-v1]]

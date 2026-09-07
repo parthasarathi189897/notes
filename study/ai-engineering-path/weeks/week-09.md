@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 9
 phase: 1
-dates: "Jul 27 - Aug 2, 2026"
+dates: "Sep 3-9, 2026"
 course: "C3 Building Systems (2/2)"
 project: "P1 main build"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 9 — Phase 1: App Basics
 
-> Dates: **Jul 27 - Aug 2, 2026**
+> Dates: **Sep 3-9, 2026**
 > Course: **C3 Building Systems (2/2)**
+> 📚 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/k0pk1/introduction) — DeepLearning.AI
 > Project: **P1 main build**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p1-llm-json-extractor]]

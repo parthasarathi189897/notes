@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 43
 phase: 7
-dates: "Mar 22-28, 2027"
+dates: "Jun 7-13, 2027"
 course: "(build week)"
 project: "P7 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 43 — Phase 7: Agents
 
-> Dates: **Mar 22-28, 2027**
+> Dates: **Jun 7-13, 2027**
+> 🔨 Build week: Ship P7 (research agent) / start P8. Spec: [[../projects/p8-ci-eval-pipeline]]
 > Course: **(build week)**
 > Project: **P7 SHIP**
 > Time budget: **3-4h**

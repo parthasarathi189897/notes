@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 46
 phase: 8
-dates: "Apr 12-18, 2027"
+dates: "Jun 28 - Jul 4, 2027"
 course: "C16 Auto Testing LLMOps"
 project: "P8 scaffold + capstone wiring"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 46 — Phase 8: Production
 
-> Dates: **Apr 12-18, 2027**
+> Dates: **Jun 28 - Jul 4, 2027**
 > Course: **C16 Auto Testing LLMOps**
+> 📚 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/courses/automated-testing-llmops/lesson/oy7qu/introduction) — DeepLearning.AI + CircleCI
 > Project: **P8 scaffold + capstone wiring**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p8-ci-eval-pipeline]]

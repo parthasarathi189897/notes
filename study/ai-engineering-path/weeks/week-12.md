@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 12
 phase: 2
-dates: "Aug 17-23, 2026"
+dates: "Oct 12-18, 2026"
 course: "C4 Vector DBs (2/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 12 — Phase 2: Embeddings
 
-> Dates: **Aug 17-23, 2026**
+> Dates: **Oct 12-18, 2026**
 > Course: **C4 Vector DBs (2/2)**
+> 📚 Course: [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/g6d1d/vector-databases) — DeepLearning.AI + Weaviate
 > Project: **—**
 > Time budget: **3-4h**
 

@@ -2,14 +2,16 @@
 type: ai-eng-week
 week: 6
 phase: 1
-dates: "Jul 6-12, 2026"
+dates: "Aug 3-9, 2026"
 course: "C2 Prompt Engineering (1/2)"
 project: "—"
 hours_target: 3.5
 hours_logged: 0
 status: not-started
 streak_before: 0
+resumed: true
 created: 2026-05-29
+updated: 2026-07-25
 tags:
   - study
   - ai-engineering
@@ -17,12 +19,15 @@ tags:
   - phase-1
 ---
 
-# Week 6 — Phase 1: App Basics
+# Week 6 — Phase 1: App Basics · 🔁 RESUME WEEK
 
-> Dates: **Jul 6-12, 2026**
+> Dates: **Aug 3-9, 2026** *(re-dated from Jul 6 after the Jul–early-Aug pause)*
 > Course: **C2 Prompt Engineering (1/2)**
+> 📚 Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/dfbds/introduction) — DeepLearning.AI
 > Project: **—**
-> Time budget: **3-4h**
+> Time budget: **3-4h** — but start light. First week back = rebuild the habit, don't sprint.
+>
+> 📌 You'd started this course briefly on Jul 7 (see Session 1) before the pause. Pick up where you left off.
 
 
 ---
@@ -37,9 +42,9 @@ tags:
 
 > Set on Monday. 3 max.
 
-- [ ] **Course:** complete this week's lessons
-- [ ] **Practice:** small code experiment from course labs
-- [ ] **Notes:** 1-2 concept notes
+- [x] **Course:** complete this week's lessons ✅ 2026-08-08
+- [x] **Practice:** small code experiment from course labs ✅ 2026-08-08
+- [x] **Notes:** 1-2 concept notes ✅ 2026-08-08
 
 ---
 
@@ -56,15 +61,15 @@ tags:
 
 ## 📝 Session log
 
-### Session 1 — _date_
-- Duration:
-- Did:
+### Session 1 — Tue Aug 4
+- Duration: 30 min
+- Did: Started the course and watched the introductory videos
 - Learned:
 
-### Session 2 — wed July 8
+### Session 2 — Sat Aug 8
 - Duration: 20 min
-- Did: watched course videos
-- Learned: Principles of prompt engineering like give model clear / structured instructions and time to think for the solution
+- Did: Watched few videso
+- Learned:
 
 ### Session 3 — _date_
 - Duration:
@@ -75,9 +80,9 @@ tags:
 
 ## 🧠 Concept notes captured
 
-| Concept            | Confidence (L/M/H) | Note                   |
-| ------------------ | ------------------ | ---------------------- |
-| prompt engineering | M                  | [[prompt engineering]] |
+| Concept                        | Confidence (L/M/H) | Note                                             |
+| ------------------------------ | ------------------ | ------------------------------------------------ |
+| prompt engineering guildelines | H                  | [[../concepts/02-prompt-engineering/guidelines]] |
 
 ---
 

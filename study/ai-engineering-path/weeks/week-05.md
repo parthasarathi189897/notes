@@ -6,11 +6,11 @@ dates: "Jun 29 - Jul 5, 2026"
 course: "— (Python Ramp)"
 project: "—"
 hours_target: 3.5
-hours_logged: 1.67
-status: in-progress
-streak_before: 2
+hours_logged: 0
+status: not-started
+streak_before: 0
 created: 2026-05-29
-updated: 2026-07-04
+updated: 2026-05-31
 tags:
   - study
   - ai-engineering
@@ -22,6 +22,7 @@ tags:
 # Week 5 — Phase 0: Python / Tooling Ramp
 
 > Dates: **Jun 29 - Jul 5, 2026**
+> 🐍 Python ramp: Set up uv, Pydantic, httpx, pytest, Ollama. No course — build the dev env.
 > Course: **— (No course this week. Tooling setup + Python fluency.)**
 > Project: **—**
 > Time budget: **3-4h**
@@ -73,20 +74,20 @@ tags:
   - Use `model_json_schema()` to generate JSON schema — this becomes your LLM output format
   - Try a `field_validator` for custom validation
 
-- [x] **First LLM API call** (45 min)
+- [ ] **First LLM API call** (45 min)
   - Call OpenAI (gpt-4o-mini) or Ollama (llama3.1:8b) with a system + user message
   - Prompt: "Given this product review, return JSON with {sentiment, summary, confidence}"
   - Parse response with Pydantic model
   - Test with `temperature=0` and `temperature=1` — now you know *why* these matter from C1
   - If using OpenAI: note the token count and cost from response headers
 
-- [x] **pytest basics** (30 min, stretch)
+- [ ] **pytest basics** (30 min, stretch)
   - Write a test: valid JSON → Pydantic model parses correctly
   - Write a test: invalid JSON → raises ValidationError
   - Write a test: missing required field → raises ValidationError
   - Run: `uv run pytest -v`
 
-- [x] **Ollama setup** (30 min, optional)
+- [ ] **Ollama setup** (30 min, optional)
   - Install Ollama: https://ollama.com
   - `ollama pull llama3.1:8b` (or `mistral:7b` if RAM is tight)
   - `ollama pull nomic-embed-text` (for later embedding work)
@@ -114,9 +115,9 @@ tags:
 - **Learned:** Basics of pydantic using BaseModel, custom validation, different type hints
 - **Stuck on:**
 
-### Session 2 — Sat July 4
-- **Duration:** 60 min
-- **Did:** Set up Ollama models, started watching httpx and async videos for python
+### Session 2 — _date_
+- **Duration:**
+- **Did:** 
 - **Learned:**
 
 ### Session 3 — _date_
@@ -128,14 +129,12 @@ tags:
 
 ## 🧠 Concept notes captured
 
-| Concept         | Confidence (L/M/H) | Note                                            |
-| --------------- | ------------------ | ----------------------------------------------- |
-| pydantic        | M                  | [[pydantic]]                                    |
-| async and httpx | M                  | [[../concepts/phase-1/async + httpx in python]] |
-|                 |                    | [[../concepts/phase-1/event-loop-step-by-step]] |
+| Concept  | Confidence (L/M/H) | Note                     |
+| -------- | ------------------ | ------------------------ |
+| pydantic | M                  | [[../concepts/pydantic]] |
 
 > See [[_example-filled]] for how to fill concept notes.
-> See `concepts/` folder for examples: [[../concepts/phase-0/sampling-parameters|sampling-parameters]], [[../concepts/phase-0/attention-intuition|attention-intuition]].
+> See `concepts/` folder for examples: [[../concepts/sampling-parameters]], [[../concepts/attention-intuition]].
 
 ---
 

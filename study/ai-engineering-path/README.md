@@ -3,13 +3,16 @@ type: study-path-index
 topic: AI Engineering Path (DeepLearning.AI)
 domain: AI/ML
 format: courses + projects
-total_weeks: 50
+total_weeks: 52
+study_weeks: 46
+buffer_weeks: 6
 hours_per_week: 3-4
 start_date: 2026-06-01
-target_end: 2027-05-16
+resumed: 2026-08-03
+target_end: 2027-07-18
 status: in-progress
 created: 2026-05-29
-updated: 2026-07-04
+updated: 2026-08-11
 tags:
   - study
   - ai-engineering
@@ -18,9 +21,9 @@ tags:
 
 # AI Engineering Path
 
-> **50-week, project-driven path** from 15-year FE engineer → practical AI engineer.
+> **52-week, project-driven path** from 15-year FE engineer → practical AI engineer.
 > Budget: **3-4h/week** (real life-friendly with busy office + kid).
-> 46 study weeks + 4 buffer weeks. Concept-first. Build over watch. Evals over vibes. **9 projects, 9 separate repos.**
+> 46 study weeks + 6 buffer weeks. Concept-first. Build over watch. Evals over vibes. **9 projects, 9 separate repos.**
 > **Cost strategy:** Ollama for dev, paid APIs for evals only. ~$5-10/mo.
 
 ---
@@ -31,7 +34,7 @@ tags:
 |---|------|---------|
 | 0 | [[00-context-and-goal]] | Why I'm doing this, success criteria, ground rules |
 | 1 | [[01-course-path-timeline]] | The 16 courses, sequence, week mapping, time budget |
-| 2 | [[02-progress-tracker]] | **Open this weekly.** Master dashboard with all 50 weeks |
+| 2 | [[02-progress-tracker]] | **Open this weekly.** Master dashboard with all 52 weeks |
 | P | [[projects/README\|Projects index]] | 9 build checkpoints with acceptance criteria |
 
 ---
@@ -69,12 +72,10 @@ ai-engineering-path/
 ├── weeks/
 │   ├── _template.md                # Reference template
 │   ├── _example-filled.md          # ⭐ Example completed week (read first!)
-│   └── week-01.md ... week-46.md   # 46 study weeks + 4 buffer weeks
-└── concepts/                       # Concept notes, organized by phase
-    ├── phase-0/                    # Foundation: LLM fundamentals, transformers, RLHF, ...
-    ├── phase-1/                    # LLM app basics: pydantic, async/httpx, event loop
-    ├── designs/                    # Mermaid / Excalidraw diagrams
-    └── images/                     # Diagram exports
+│   └── week-01.md ... week-48.md   # 48 study-week notes + 6 buffer notes
+└── concepts/                       # Concept notes (created as you learn)
+    ├── sampling-parameters.md      # Example concept note
+    └── attention-intuition.md      # Example concept note
 ```
 
 ---
@@ -94,7 +95,7 @@ If you miss a week: do **not** double up. Slip the timeline by one week and move
 
 ## 🎯 The promise
 
-By Week 46 (May 16, 2027) you will have:
+By Week 48 (Jul 18, 2027) you will have:
 
 - A deployed RAG capstone app you built and evaluated
 - **9 separate public GitHub repos** — each a hireable artifact

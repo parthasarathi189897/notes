@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 28
 phase: 4
-dates: "Dec 7-13, 2026"
+dates: "Feb 15-21, 2027"
 course: "C8 Build & Eval Adv RAG (1/2)"
 project: "Golden set draft (30 Qs)"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 28 — Phase 4: Adv Retrieval
 
-> Dates: **Dec 7-13, 2026**
+> Dates: **Feb 15-21, 2027**
 > Course: **C8 Build & Eval Adv RAG (1/2)**
+> 📚 Course: [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/nwy74/introduction) — DeepLearning.AI + LlamaIndex + TruEra
 > Project: **Golden set draft (30 Qs)**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p4-rag-v2-evaluated]]

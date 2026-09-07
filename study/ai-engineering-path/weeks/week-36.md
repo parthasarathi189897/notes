@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 36
 phase: 6
-dates: "Feb 1-7, 2027"
+dates: "Apr 12-18, 2027"
 course: "C11 Finetuning LLMs (2/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 36 — Phase 6: Fine-tuning
 
-> Dates: **Feb 1-7, 2027**
+> Dates: **Apr 12-18, 2027**
 > Course: **C11 Finetuning LLMs (2/2)**
+> 📚 Course: [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/information) — DeepLearning.AI + Lamini
 > Project: **—**
 > Time budget: **3-4h**
 

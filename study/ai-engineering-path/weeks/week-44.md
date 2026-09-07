@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 44
 phase: 8
-dates: "Mar 29 - Apr 4, 2027"
+dates: "Jun 14-20, 2027"
 course: "C15 LLMOps (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 44 — Phase 8: Production
 
-> Dates: **Mar 29 - Apr 4, 2027**
+> Dates: **Jun 14-20, 2027**
 > Course: **C15 LLMOps (1/2)**
+> 📚 Course: [LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/jupuw/introduction) — DeepLearning.AI + Google Cloud
 > Project: **—**
 > Time budget: **3-4h**
 

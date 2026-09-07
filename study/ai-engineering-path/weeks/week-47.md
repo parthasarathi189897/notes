@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 47
 phase: 8
-dates: "Apr 19-25, 2027"
+dates: "Jul 5-11, 2027"
 course: "(build week)"
 project: "P8 SHIP + capstone eval dashboard"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 47 — Phase 8: Production
 
-> Dates: **Apr 19-25, 2027**
+> Dates: **Jul 5-11, 2027**
+> 🎓 Capstone: Polish + deploy the capstone. Spec: [[../projects/p9-capstone]]
 > Course: **(build week)**
 > Project: **P8 SHIP + capstone eval dashboard**
 > Time budget: **3-4h**

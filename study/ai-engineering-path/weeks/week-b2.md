@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: B2
 phase: buffer
-dates: "Aug 31 - Sep 6, 2026"
+dates: "Oct 19-25, 2026"
 course: "—"
 project: "—"
 hours_target: 2
@@ -16,7 +16,7 @@ tags:
   - buffer
 ---
 
-# Buffer 2 — Catch-up & Review (Aug 31 - Sep 6)
+# Buffer 2 — Catch-up & Review (Oct 19-25)
 
 > Mid Phase 2 (Embeddings). Between C4 and C5.
 > **Not a zero week** — use for catch-up or embedding experiments.

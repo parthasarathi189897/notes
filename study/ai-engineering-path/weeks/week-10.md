@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 10
 phase: 1
-dates: "Aug 3-9, 2026"
+dates: "Sep 10-16, 2026"
 course: "(build week)"
 project: "P1 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 10 — Phase 1: App Basics
 
-> Dates: **Aug 3-9, 2026**
+> Dates: **Sep 10-16, 2026**
+> 🔨 Build week: Ship P1 (LLM JSON extractor).
 > Course: **(build week)**
 > Project: **P1 SHIP**
 > Time budget: **3-4h**

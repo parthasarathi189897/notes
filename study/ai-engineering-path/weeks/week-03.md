@@ -24,6 +24,7 @@ tags:
 
 > Dates: **Jun 15-21, 2026**
 > Course: **C1 GenAI w/ LLMs (2/4 finish + 3/4)**
+> 📚 Course: [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) — DeepLearning.AI + AWS (Coursera)
 > Project: **—**
 > Time budget: **3.5-4h** _(+0.5h to absorb W2 slip)_
 
@@ -43,7 +44,7 @@ tags:
 
 - [x] **Course (must-have):** Finish C1 (2/4) — instruction tuning. Then complete C1 (3/4) — RLHF + evaluation metrics ✅ 2026-06-16
 - [x] **Notes:** 1-2 concept notes (RLHF intuition and/or instruction tuning mechanics) ✅ 2026-06-21
-- [ ] **Stretch:** Watch the [RLHF + PPO intuition video](https://www.youtube.com/watch?v=2MBJOuVq380) if time allows (~15 min)
+- [x] **Stretch:** Watch the [RLHF + PPO intuition video](https://www.youtube.com/watch?v=2MBJOuVq380) if time allows (~15 min) ✅ 2026-07-07
 
 ---
 
@@ -85,9 +86,9 @@ tags:
 
 | Concept                              | Confidence (L/M/H) | Note                                                      |
 | ------------------------------------ | ------------------ | --------------------------------------------------------- |
-| Fine Tuning                          | M                  | [[../concepts/phase-0/Fine Tuning]]                          |
-| Model Evaluation                     | M                  | [[../concepts/phase-0/Model Evaluation]]                     |
-| Reinforcement Learning from Human Feedback | L            | [[../concepts/phase-0/Reinforcement learning - Human feedback]] |
+| Fine Tuning                          | M                  | [[../concepts/Fine Tuning]]                               |
+| Model Evaluation                     | M                  | [[../concepts/Model Evaluation]]                          |
+| Reinforcement Learning from Human Feedback | L            | [[../concepts/Reinforcement learning - Human feedback]]   |
 
 ---
 

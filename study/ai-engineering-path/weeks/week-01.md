@@ -22,6 +22,7 @@ tags:
 
 > Dates: **Jun 1-7, 2026**
 > Course: **C1 GenAI w/ LLMs (1/4)**
+> 📚 Course: [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) — DeepLearning.AI + AWS (Coursera)
 > Project: **—**
 > Time budget: **3-4h**
 
@@ -75,13 +76,13 @@ tags:
 
 | Concept                  | Confidence (L/M/H) | Note                                          |
 | ------------------------ | ------------------- | --------------------------------------------- |
-| LLM Fundamentals         | M                   | [[../concepts/phase-0/LLM Fundamentals]]         |
-| Transformer Architecture | M                   | [[../concepts/phase-0/Transformer Architecture]] |
-| In-Context Learning      | M                   | [[../concepts/phase-0/In-Context Learning]]      |
-| Sampling Parameters      | H                   | [[../concepts/phase-0/sampling-parameters]]      |
+| LLM Fundamentals         | M                   | [[../concepts/LLM Fundamentals]]              |
+| Transformer Architecture | M                   | [[../concepts/Transformer Architecture]]      |
+| In-Context Learning      | M                   | [[../concepts/In-Context Learning]]            |
+| Sampling Parameters      | H                   | [[../concepts/sampling-parameters]]            |
 
 > See [[_example-filled]] for how to fill weekly notes.
-> See `concepts/` folder for example notes: [[../concepts/phase-0/sampling-parameters|sampling-parameters]], [[../concepts/phase-0/attention-intuition|attention-intuition]].
+> See `concepts/` folder for example notes: [[../concepts/sampling-parameters]], [[../concepts/attention-intuition]].
 
 ---
 

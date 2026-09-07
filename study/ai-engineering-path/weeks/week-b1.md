@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: B1
 phase: buffer
-dates: "Aug 10-16, 2026"
+dates: "Sep 17-24, 2026"
 course: "—"
 project: "—"
 hours_target: 2
@@ -16,10 +16,10 @@ tags:
   - buffer
 ---
 
-# Buffer 1 — Catch-up & Review (Aug 10-16)
+# Buffer 1 — Catch-up & Review (Sep 17-24)
 
-> Between Phase 1 (App Basics) and Phase 2 (Embeddings).
-> **Not a zero week** — use for catch-up or light review.
+> After Phase 1 (App Basics), just before your Sep travel buffer.
+> **Not a zero week** — use for catch-up or light review before you travel.
 
 ---
 
@@ -58,4 +58,4 @@ tags:
 
 ---
 
-*Back to [[../02-progress-tracker]] · Next: [[week-11]]*
+*Back to [[../02-progress-tracker]] · Next: [[week-bt2]]*

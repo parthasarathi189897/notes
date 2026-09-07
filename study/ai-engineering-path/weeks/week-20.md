@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 20
 phase: 3
-dates: "Oct 12-18, 2026"
+dates: "Dec 14-20, 2026"
 course: "C6 RAG (5/9)"
 project: "P3 scaffold"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 20 — Phase 3: Core RAG
 
-> Dates: **Oct 12-18, 2026**
+> Dates: **Dec 14-20, 2026**
 > Course: **C6 RAG (5/9)**
+> 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **P3 scaffold**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p3-rag-v1]]

@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 8
 phase: 1
-dates: "Jul 20-26, 2026"
+dates: "Aug 27 - Sep 2, 2026"
 course: "C3 Building Systems (1/2)"
 project: "P1 scaffold"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 8 — Phase 1: App Basics
 
-> Dates: **Jul 20-26, 2026**
+> Dates: **Aug 27 - Sep 2, 2026**
 > Course: **C3 Building Systems (1/2)**
+> 📚 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/k0pk1/introduction) — DeepLearning.AI
 > Project: **P1 scaffold**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p1-llm-json-extractor]]
@@ -56,15 +57,15 @@ tags:
 
 ## 📝 Session log
 
-### Session 1 — _date_
-- Duration:
-- Did:
-- Learned:
+### Session 1 — Mon, 17 August
+- Duration: 30 min
+- Did: Watched the first video in the course
+- Learned: Recap my past learnings on the concept of token, prompt, completion, context window, transformer and different type of language models
 
-### Session 2 — _date_
-- Duration:
-- Did:
-- Learned:
+### Session 2 — Fri, 21 August
+- Duration: 30 min
+- Did: Watched few video
+- Learned: Classification, moderation and prompt injection prevention
 
 ### Session 3 — _date_
 - Duration:

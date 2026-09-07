@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 33
 phase: 5
-dates: "Jan 11-17, 2027"
+dates: "Mar 22-28, 2027"
 course: "C10 Eval & Debug GenAI"
 project: "P5 scaffold"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 33 — Phase 5: Accuracy
 
-> Dates: **Jan 11-17, 2027**
+> Dates: **Mar 22-28, 2027**
 > Course: **C10 Eval & Debug GenAI**
+> 📚 Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/t7eoa/introduction) — DeepLearning.AI + W&B
 > Project: **P5 scaffold**
 > Time budget: **3-4h**
 > Project spec: [[../projects/p5-eval-harness]]

@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 38
 phase: 6
-dates: "Feb 15-21, 2027"
+dates: "Apr 26 - May 2, 2027"
 course: "(write week)"
 project: "P6 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 38 — Phase 6: Fine-tuning
 
-> Dates: **Feb 15-21, 2027**
+> Dates: **Apr 26 - May 2, 2027**
+> ✍️ Write week: Ship P6 (fine-tuning decision memo).
 > Course: **(write week)**
 > Project: **P6 SHIP**
 > Time budget: **3-4h**

@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 39
 phase: 7
-dates: "Feb 22-28, 2027"
+dates: "May 3-9, 2027"
 course: "C13 Agentic AI (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 39 — Phase 7: Agents
 
-> Dates: **Feb 22-28, 2027**
+> Dates: **May 3-9, 2027**
 > Course: **C13 Agentic AI (1/2)**
+> 📚 Course: [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome) — DeepLearning.AI
 > Project: **—**
 > Time budget: **3-4h**
 

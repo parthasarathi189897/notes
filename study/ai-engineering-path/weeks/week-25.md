@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 25
 phase: 3
-dates: "Nov 16-22, 2026"
+dates: "Jan 18-24, 2027"
 course: "(build week)"
 project: "P3 SHIP"
 hours_target: 3.5
@@ -19,7 +19,8 @@ tags:
 
 # Week 25 — Phase 3: Core RAG
 
-> Dates: **Nov 16-22, 2026**
+> Dates: **Jan 18-24, 2027**
+> 🔨 Build week: Consolidate; RAG v1 improvements. Spec: [[../projects/p4-rag-v2-evaluated]]
 > Course: **(build week)**
 > Project: **P3 SHIP**
 > Time budget: **3-4h**

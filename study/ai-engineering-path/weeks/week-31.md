@@ -2,7 +2,7 @@
 type: ai-eng-week
 week: 31
 phase: 5
-dates: "Dec 28, 2026 - Jan 3, 2027"
+dates: "Mar 8-14, 2027"
 course: "C9 Improving Accuracy (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,8 +19,9 @@ tags:
 
 # Week 31 — Phase 5: Accuracy
 
-> Dates: **Dec 28, 2026 - Jan 3, 2027**
+> Dates: **Mar 8-14, 2027**
 > Course: **C9 Improving Accuracy (1/2)**
+> 📚 Course: [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications/lesson/zd29x/introduction) — DeepLearning.AI + Lamini
 > Project: **—**
 > Time budget: **3-4h**
 

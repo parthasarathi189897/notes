@@ -89,7 +89,7 @@ tags:
 
 | Concept                           | Confidence (L/M/H) | Note                                |
 | --------------------------------- | ------------------ | ----------------------------------- |
-| Sampling parameters (temp, top-p) | H                  | [[sampling-parameters]] |
+| Sampling parameters (temp, top-p) | H                  | [[../concepts/sampling-parameters]] |
 | Pydantic v2 for LLM outputs       | M                  | _(write next week)_                 |
 
 ---
