@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 41
 phase: 7
-dates: "May 24-30, 2027"
+dates: "Jun 28 - Jul 4, 2027"
+original_target: "May 24-30, 2027"
 course: "C14 Evaluating Agents (1/2)"
 project: "P7 plan loop"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 41 — Phase 7: Agents
 
-> Dates: **May 24-30, 2027**
+> Dates: **Jun 28 - Jul 4, 2027**
 > Course: **C14 Evaluating Agents (1/2)**
 > 📚 Course: [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/lesson/sqkza/introduction) — DeepLearning.AI + Arize
 > Project: **P7 plan loop**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P7 plan loop
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Planner emits a step list; each step is logged with its output.
 
 ---
 

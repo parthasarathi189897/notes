@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 20
 phase: 3
-dates: "Dec 14-20, 2026"
+dates: "Jan 18-24, 2027"
+original_target: "Dec 14-20, 2026"
 course: "C6 RAG (5/9)"
 project: "P3 scaffold"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 20 — Phase 3: Core RAG
 
-> Dates: **Dec 14-20, 2026**
+> Dates: **Jan 18-24, 2027**
 > Course: **C6 RAG (5/9)**
 > 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **P3 scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P3 scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p03-rag-v1` is public; tracing tool chosen and capturing at least one request.
 
 ---
 

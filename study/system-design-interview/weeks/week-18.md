@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 18
 chapter: 10
-dates: "Feb 15-21, 2027"
+dates: "Mar 1-7, 2027"
+original_target: "Feb 15-21, 2027"
 book_section: "Ch 10: reliability, dedup, rate limiting"
 diagram: "[[../diagrams/08-notification-system]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 18 — Ch 10: Notification System (Part 2) + Diagram
 
-> Dates: **Feb 15-21, 2027**
+> Dates: **Mar 1-7, 2027**
 > Read: Ch 10 second half — reliability, dedup, rate limiting
 > Draw: [[../diagrams/08-notification-system]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 10: reliability, dedup, rate limiting, analytics
 - [ ] **Draw notification system architecture from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Contact form sends a real email; the failure path is handled.
 
 ---
 

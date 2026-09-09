@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 9
 chapter: 6
-dates: "Nov 16-22, 2026"
+dates: "Nov 23-29, 2026"
+original_target: "Nov 16-22, 2026"
 book_section: "Ch 6: CAP theorem, partitioning, replication"
 video: "https://www.youtube.com/watch?v=BHqjEjzAicA"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 9 — Ch 6: Key-Value Store (Part 1)
 
-> Dates: **Nov 16-22, 2026**
+> Dates: **Nov 23-29, 2026**
 > Read: Ch 6 first half — CAP theorem, data partitioning, replication
 > Watch: [CAP Theorem Simplified](https://www.youtube.com/watch?v=BHqjEjzAicA)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch CAP theorem video during commute/walk
 - [ ] Read Ch 6 first half: CAP theorem, partitioning, replication
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: where your site sits on CAP, and why.
 
 ---
 

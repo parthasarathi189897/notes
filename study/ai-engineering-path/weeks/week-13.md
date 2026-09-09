@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 13
 phase: 2
-dates: "Oct 26 - Nov 1, 2026"
+dates: "Nov 9-15, 2026"
+original_target: "Oct 26 - Nov 1, 2026"
 course: "C5 Building Apps w/ VDBs (1/2)"
 project: "P2 scaffold"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 13 — Phase 2: Embeddings
 
-> Dates: **Oct 26 - Nov 1, 2026**
+> Dates: **Nov 9-15, 2026**
 > Course: **C5 Building Apps w/ VDBs (1/2)**
 > 📚 Course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/tl7on/introduction) — DeepLearning.AI + Pinecone
 > Project: **P2 scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P2 scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p02-semantic-search` is public and ingests 20+ local files into a vector store.
 
 ---
 

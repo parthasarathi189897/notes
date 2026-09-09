@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 7
 chapter: 10
 parent: "[[README]]"
-weeks: "W17-18 (Dec 7-20)"
+weeks: "W17-18 (Feb 22 - Mar 7, 2027)"
+original_target: "W17-18 (Dec 7-20)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M7 — Contact Form → Email Notification
 
-> **Ch 10: Design a Notification System** · Weeks **W17-18 (Dec 7-20)** · 🔨 Build (light)
+> **Ch 10: Design a Notification System** · Weeks **W17-18 (Feb 22 - Mar 7, 2027)** · 🔨 Build (light)
 > One channel (email), one provider — but the fan-out/queue/retry shape is real.
 
 ---

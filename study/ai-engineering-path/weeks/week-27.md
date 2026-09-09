@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 27
 phase: 4
-dates: "Feb 1-7, 2027"
+dates: "Mar 8-14, 2027"
+original_target: "Feb 1-7, 2027"
 course: "C7 Advanced Retrieval (2/2)"
 project: "RAG v1 + 2 improvements"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 27 — Phase 4: Adv Retrieval
 
-> Dates: **Feb 1-7, 2027**
+> Dates: **Mar 8-14, 2027**
 > Course: **C7 Advanced Retrieval (2/2)**
 > 📚 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction) — DeepLearning.AI + Chroma
 > Project: **RAG v1 + 2 improvements**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** RAG v1 + 2 improvements
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] 2 retrieval improvements running in the v1 repo; before/after numbers recorded.
 
 ---
 

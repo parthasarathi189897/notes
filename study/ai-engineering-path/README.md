@@ -9,7 +9,7 @@ buffer_weeks: 6
 hours_per_week: 3-4
 start_date: 2026-06-01
 resumed: 2026-08-03
-target_end: 2027-07-18
+target_end: 2027-08-22
 status: in-progress
 created: 2026-05-29
 updated: 2026-08-11
@@ -34,7 +34,7 @@ tags:
 |---|------|---------|
 | 0 | [[00-context-and-goal]] | Why I'm doing this, success criteria, ground rules |
 | 1 | [[01-course-path-timeline]] | The 16 courses, sequence, week mapping, time budget |
-| 2 | [[02-progress-tracker]] | **Open this weekly.** Master dashboard with all 52 weeks |
+| 2 | [[PROGRESS]] | **Open this weekly.** ⭐ Live tracker — dates, status, tripwires. Supersedes `02-progress-tracker` |
 | P | [[projects/README\|Projects index]] | 9 build checkpoints with acceptance criteria |
 
 ---
@@ -95,7 +95,7 @@ If you miss a week: do **not** double up. Slip the timeline by one week and move
 
 ## 🎯 The promise
 
-By Week 48 (Jul 18, 2027) you will have:
+By Week 48 (Aug 22, 2027) you will have:
 
 - A deployed RAG capstone app you built and evaluated
 - **9 separate public GitHub repos** — each a hireable artifact

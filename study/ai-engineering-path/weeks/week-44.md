@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 44
 phase: 8
-dates: "Jun 14-20, 2027"
+dates: "Jul 19-25, 2027"
+original_target: "Jun 14-20, 2027"
 course: "C15 LLMOps (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 44 — Phase 8: Production
 
-> Dates: **Jun 14-20, 2027**
+> Dates: **Jul 19-25, 2027**
 > Course: **C15 LLMOps (1/2)**
 > 📚 Course: [LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/jupuw/introduction) — DeepLearning.AI + Google Cloud
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: what an LLM deploy pipeline needs that an ordinary one doesn't.
 
 ---
 

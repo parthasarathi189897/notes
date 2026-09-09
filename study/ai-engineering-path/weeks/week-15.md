@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 15
 phase: 2
-dates: "Nov 9-15, 2026"
+dates: "Nov 23-29, 2026"
+original_target: "Nov 9-15, 2026"
 course: "(build week)"
 project: "P2 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 15 — Phase 2: Embeddings
 
-> Dates: **Nov 9-15, 2026**
+> Dates: **Nov 23-29, 2026**
 > 🔨 Build week: Ship P2 (semantic search + eval).
 > Course: **(build week)**
 > Project: **P2 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P2 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 8 P2 acceptance criteria ticked, including the 5-question recall@5 eval running in one command.
 
 ---
 

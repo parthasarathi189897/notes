@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 22
 phase: 3
-dates: "Dec 28 - Jan 3, 2027"
+dates: "Feb 1-7, 2027"
+original_target: "Dec 28 - Jan 3, 2027"
 course: "C6 RAG (7/9)"
 project: "P3 retrieval"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 22 — Phase 3: Core RAG
 
-> Dates: **Dec 28 - Jan 3, 2027**
+> Dates: **Feb 1-7, 2027**
 > Course: **C6 RAG (7/9)**
 > 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **P3 retrieval**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P3 retrieval
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A query returns top-k chunks with scores; retrieval logged to JSON for every query.
 
 ---
 

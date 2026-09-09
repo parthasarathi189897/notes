@@ -17,8 +17,8 @@ tags:
 
 | # | Path | Domain | Budget | Duration | Tracker | Status |
 |---|------|--------|--------|----------|---------|--------|
-| 1 | [[ai-engineering-path/README\|AI Engineering Path]] | AI/ML | 3-4h/week | 50 weeks (Jun 2026 → May 2027) | [[ai-engineering-path/02-progress-tracker\|Tracker]] | 🔵 |
-| 2 | [[system-design-interview/README\|System Design Interview]] | System Design | 30 min/week + passive | 30 weeks (Jun → Dec 2026) | [[system-design-interview/progress-tracker\|Tracker]] | ⬜ |
+| 1 | [[ai-engineering-path/README\|AI Engineering Path]] | AI/ML | 3-4h/week | Jun 2026 → **Aug 22, 2027** | [[ai-engineering-path/PROGRESS\|PROGRESS]] | 🔵 |
+| 2 | [[system-design-interview/README\|System Design Interview]] | System Design | 1-2h/week | Sep 2026 → **May 16, 2027** | [[ai-engineering-path/PROGRESS\|PROGRESS]] | ⬜ |
 
 ---
 

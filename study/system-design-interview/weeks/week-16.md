@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 16
 chapter: 9
-dates: "Feb 1-7, 2027"
+dates: "Feb 15-21, 2027"
+original_target: "Feb 1-7, 2027"
 book_section: "Ch 9: politeness, dedup, fault tolerance"
 diagram: "[[../diagrams/07-web-crawler]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 16 — Ch 9: Web Crawler (Part 2) + Diagram
 
-> Dates: **Feb 1-7, 2027**
+> Dates: **Feb 15-21, 2027**
 > Read: Ch 9 second half — politeness, content dedup, fault tolerance
 > Draw: [[../diagrams/07-web-crawler]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 9: politeness, dedup (content hash), DNS resolver, robustness
 - [ ] **Draw web crawler architecture from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Design note written: crawler architecture.
 
 ---
 

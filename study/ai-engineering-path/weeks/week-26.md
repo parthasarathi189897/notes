@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 26
 phase: 4
-dates: "Jan 25-31, 2027"
+dates: "Mar 1-7, 2027"
+original_target: "Jan 25-31, 2027"
 course: "C7 Advanced Retrieval (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 26 — Phase 4: Adv Retrieval
 
-> Dates: **Jan 25-31, 2027**
+> Dates: **Mar 1-7, 2027**
 > Course: **C7 Advanced Retrieval (1/2)**
 > 📚 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai/lesson/kb5oj/introduction) — DeepLearning.AI + Chroma
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: query expansion vs reranking, when each helps, with a worked example.
 
 ---
 

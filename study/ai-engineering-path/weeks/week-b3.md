@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: B3
 phase: buffer
-dates: "Feb 8-14, 2027"
+dates: "Mar 15-21, 2027"
+original_target: "Feb 8-14, 2027"
 course: "—"
 project: "—"
 hours_target: 2
@@ -17,7 +18,7 @@ tags:
   - buffer
 ---
 
-# Buffer 3 — Catch-up & Review (Feb 8-14)
+# Buffer 3 — Catch-up & Review (Mar 15-21, 2027)
 
 > After Phase 4 (Adv Retrieval), before the P4 build week.
 > **Not a zero week** — catch up, re-read RAG notes, sharpen the golden set.
@@ -31,6 +32,15 @@ tags:
 - [ ] Review + expand your golden set draft
 - [ ] Catch up on any C7/C8 material you rushed
 - [ ] Re-run evals on RAG v1 if time allows
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed. Optional: expand the golden-set draft, re-run evals on RAG v1.
 
 ---
 

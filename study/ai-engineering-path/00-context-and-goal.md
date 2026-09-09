@@ -60,7 +60,7 @@ The capstone will lean into this — polished UI, real eval dashboards, citation
 ## ⏰ Life constraints (real)
 
 - **3-4 hours/week is realistic.** Busy office hours + kid. Some weeks will be 2h, some 5h. Average over 48 weeks.
-- **Path is 50 weeks** (~11.5 months). Start Jun 1, 2026 → end May 16, 2027. (46 study + 4 buffer weeks.)
+- **Path runs Jun 1, 2026 → Aug 22, 2027** after the Sep-2026 rebase. 48 study weeks + 4 buffers + 4 holiday blocks. See [[PROGRESS]] for live dates.
 - **No heroic catchup.** Miss a week → slip the schedule by 1 week and move on.
 - **Saturday morning is sacred study time.** Kid-nap windows are gold. Block them.
 - **One alive thing > five dead things.** Quality > quantity over the year.

@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 29
 phase: 4
-dates: "Feb 22-28, 2027"
+dates: "Mar 29 - Apr 4, 2027"
+original_target: "Feb 22-28, 2027"
 course: "C8 Build & Eval Adv RAG (2/2)"
 project: "P4 build"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 29 — Phase 4: Adv Retrieval
 
-> Dates: **Feb 22-28, 2027**
+> Dates: **Mar 29 - Apr 4, 2027**
 > Course: **C8 Build & Eval Adv RAG (2/2)**
 > 📚 Course: [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/nwy74/introduction) — DeepLearning.AI + LlamaIndex + TruEra
 > Project: **P4 build**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P4 build
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Groundedness and correctness scored across the golden set; baseline recorded.
 
 ---
 

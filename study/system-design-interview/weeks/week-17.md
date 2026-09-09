@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 17
 chapter: 10
-dates: "Feb 8-14, 2027"
+dates: "Feb 22-28, 2027"
+original_target: "Feb 8-14, 2027"
 book_section: "Ch 10: notification types, high-level design"
 video: "https://www.youtube.com/watch?v=fJkAnN1Ozyw"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 17 — Ch 10: Notification System (Part 1)
 
-> Dates: **Feb 8-14, 2027**
+> Dates: **Feb 22-28, 2027**
 > Read: Ch 10 first half — notification types, high-level design
 > Watch: [Design a Notification System — Ch 10](https://www.youtube.com/watch?v=fJkAnN1Ozyw)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch notification system video during commute/walk
 - [ ] Read Ch 10 first half: push/SMS/email types, high-level architecture
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note on the fan-out and retry path.
 
 ---
 

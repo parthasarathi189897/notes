@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 6
 chapter: 8
 parent: "[[README]]"
-weeks: "W13-14 (Nov 9-22)"
+weeks: "W13-14 (Jan 25 - Feb 7, 2027)"
+original_target: "W13-14 (Nov 9-22)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M6 — Real Short-Link Service (`go/xxx`)
 
-> **Ch 8: Design a URL Shortener** · Weeks **W13-14 (Nov 9-22)** · 🔨 Build
+> **Ch 8: Design a URL Shortener** · Weeks **W13-14 (Jan 25 - Feb 7, 2027)** · 🔨 Build
 > The best 1:1 match in the whole book. A URL shortener is small, read-heavy, and
 > cache-friendly — you can build the *actual* system the chapter describes.
 

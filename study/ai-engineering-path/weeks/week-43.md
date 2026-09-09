@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 43
 phase: 7
-dates: "Jun 7-13, 2027"
+dates: "Jul 12-18, 2027"
+original_target: "Jun 7-13, 2027"
 course: "(build week)"
 project: "P7 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 43 — Phase 7: Agents
 
-> Dates: **Jun 7-13, 2027**
+> Dates: **Jul 12-18, 2027**
 > 🔨 Build week: Ship P7 (research agent) / start P8. Spec: [[../projects/p8-ci-eval-pipeline]]
 > Course: **(build week)**
 > Project: **P7 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P7 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 7 P7 acceptance criteria ticked, including a trajectory eval scoring each run; repo public.
 
 ---
 

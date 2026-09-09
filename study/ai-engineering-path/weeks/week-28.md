@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 28
 phase: 4
-dates: "Feb 15-21, 2027"
+dates: "Mar 22-28, 2027"
+original_target: "Feb 15-21, 2027"
 course: "C8 Build & Eval Adv RAG (1/2)"
 project: "Golden set draft (30 Qs)"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 28 — Phase 4: Adv Retrieval
 
-> Dates: **Feb 15-21, 2027**
+> Dates: **Mar 22-28, 2027**
 > Course: **C8 Build & Eval Adv RAG (1/2)**
 > 📚 Course: [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag/lesson/nwy74/introduction) — DeepLearning.AI + LlamaIndex + TruEra
 > Project: **Golden set draft (30 Qs)**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** Golden set draft (30 Qs)
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] 30+ golden questions with expected sources committed as JSONL.
 
 ---
 

@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 13
 chapter: 8
-dates: "Jan 11-17, 2027"
+dates: "Jan 25-31, 2027"
+original_target: "Jan 11-17, 2027"
 book_section: "Ch 8: hash function, base62 vs MD5"
 video: "https://www.youtube.com/watch?v=HHUi8F_qAXM"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 13 — Ch 8: URL Shortener (Part 1)
 
-> Dates: **Jan 11-17, 2027**
+> Dates: **Jan 25-31, 2027**
 > Read: Ch 8 first half — API design, hash function, base62 vs MD5
 > Watch: [How Does a URL Shortener Work?](https://www.youtube.com/watch?v=HHUi8F_qAXM) — ByteByteGo
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch URL shortener video during commute/walk
 - [ ] Read Ch 8 first half: API design, hash function options, base62 encoding
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note on base62 encoding and collision handling.
 
 ---
 

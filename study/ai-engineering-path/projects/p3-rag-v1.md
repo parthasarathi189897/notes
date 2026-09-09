@@ -4,7 +4,7 @@ project: 3
 parent: "[[README]]"
 phase: 3
 weeks: W20-25
-done_by: 2026-11-22
+done_by: 2027-02-28
 repo: aieng-p03-rag-v1
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P3 — RAG v1 (citations + logging)
 
-> **Phase 3** · Weeks **20-25** · Done by **Nov 22, 2026**
+> **Phase 3** · Weeks **20-25** · Done by **Feb 28, 2027**
 > Repo: `aieng-p03-rag-v1` · [GitHub URL TBD]
 > Full spec: [[README#📚 Project 3 — RAG v1]]
 > **This is your biggest project so far. 6 weeks. Pace yourself.**

@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 48
 phase: 8
-dates: "Jul 12-18, 2027"
+dates: "Aug 16-22, 2027"
+original_target: "Jul 12-18, 2027"
 course: "(capstone)"
 project: "🎉 P9 CAPSTONE SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 48 — Phase 8: Production
 
-> Dates: **Jul 12-18, 2027**
+> Dates: **Aug 16-22, 2027**
 > 🎓 Capstone: Deploy + demo video. P9 live.
 > Course: **(capstone)**
 > Project: **🎉 P9 CAPSTONE SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** 🎉 P9 CAPSTONE SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 10 P9 acceptance criteria ticked: deployed, eval-gated, demo video and blog post done.
 
 ---
 

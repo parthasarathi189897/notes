@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: B2
 phase: buffer
-dates: "Oct 19-25, 2026"
+dates: "Oct 26 - Nov 1, 2026"
+original_target: "Oct 19-25, 2026"
 course: "—"
 project: "—"
 hours_target: 2
@@ -16,7 +17,7 @@ tags:
   - buffer
 ---
 
-# Buffer 2 — Catch-up & Review (Oct 19-25)
+# Buffer 2 — Catch-up & Review (Oct 26 - Nov 1, 2026)
 
 > Mid Phase 2 (Embeddings). Between C4 and C5.
 > **Not a zero week** — use for catch-up or embedding experiments.
@@ -30,6 +31,15 @@ tags:
 - [ ] Re-read concept notes on embeddings, similarity, ANN
 - [ ] Chunk a few of your own markdown files — preview what P2 will need
 - [ ] Review P2 acceptance criteria and sketch the architecture
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed. Optional: pull `nomic-embed-text` and compare against `mxbai-embed-large`.
 
 ---
 

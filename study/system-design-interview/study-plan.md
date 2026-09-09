@@ -8,7 +8,7 @@ minutes_per_week: 30
 book: "System Design Interview Vol 1 — Alex Xu (2nd edition)"
 start_date: 2026-08-17
 study_starts: 2026-08-31
-target_end: 2027-05-02
+target_end: 2027-05-16
 created: 2026-05-31
 updated: 2026-08-11
 tags:
@@ -24,7 +24,7 @@ tags:
 > 🆕 Each chapter also has a hands-on milestone in the [[projects/README|Family-Website Project Track]]
 > — build the buildable chapters, design-note the billion-user ones.
 >
-> ⚠️ **Re-planned 2026-08-11.** Same 30 min/week pace — only added travel/holiday buffers and re-dated. New end: **~May 2, 2027** (was Feb 28). [[progress-tracker]] is the source of truth for dates.
+> ⚠️ **Re-planned 2026-08-11.** Same 30 min/week pace — only added travel/holiday buffers and re-dated. ⛔ **Dates superseded by [[../ai-engineering-path/PROGRESS|PROGRESS]]** (rebased 2026-09-07, new end **May 16, 2027**). Chapter/video content below is still accurate.
 
 ---
 

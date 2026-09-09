@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 45
 phase: 8
-dates: "Jun 21-27, 2027"
+dates: "Jul 26 - Aug 1, 2027"
+original_target: "Jun 21-27, 2027"
 course: "C15 LLMOps (2/2)"
 project: "Capstone scaffold"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 45 — Phase 8: Production
 
-> Dates: **Jun 21-27, 2027**
+> Dates: **Jul 26 - Aug 1, 2027**
 > Course: **C15 LLMOps (2/2)**
 > 📚 Course: [LLMOps](https://learn.deeplearning.ai/courses/llmops/lesson/jupuw/introduction) — DeepLearning.AI + Google Cloud
 > Project: **Capstone scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** Capstone scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p09-capstone` is public; backend serves one RAG query using P3 code.
 
 ---
 

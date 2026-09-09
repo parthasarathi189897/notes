@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 4
 chapter: 4
 parent: "[[README]]"
-weeks: "W5-6 (Sep 14-27)"
+weeks: "W5-6 (Oct 19 - Nov 1, 2026)"
+original_target: "W5-6 (Sep 14-27)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M4 — Edge Rate Limiting (Cloudflare WAF)
 
-> **Ch 4: Design a Rate Limiter** · Weeks **W5-6 (Sep 14-27)** · 🔨 Build
+> **Ch 4: Design a Rate Limiter** · Weeks **W5-6 (Oct 19 - Nov 1, 2026)** · 🔨 Build
 > One of the three strongest hands-on wins. You'll configure a real rate limit at the edge
 > and watch it return 429s.
 

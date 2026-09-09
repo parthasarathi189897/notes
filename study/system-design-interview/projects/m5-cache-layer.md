@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 5
 chapter: 6
 parent: "[[README]]"
-weeks: "W9-10 (Oct 12-25)"
+weeks: "W9-10 (Nov 23 - Dec 6, 2026)"
+original_target: "W9-10 (Oct 12-25)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M5 — Add a Cache Layer to One Endpoint
 
-> **Ch 6: Design a Key-Value Store** · Weeks **W9-10 (Oct 12-25)** · 🔨 Build (light)
+> **Ch 6: Design a Key-Value Store** · Weeks **W9-10 (Nov 23 - Dec 6, 2026)** · 🔨 Build (light)
 > You won't build a distributed KV store (that's a billion-user problem — see the design
 > note). But you *will* add a real cache in front of a DB call and feel the read path.
 

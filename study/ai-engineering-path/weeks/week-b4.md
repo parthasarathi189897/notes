@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: B4
 phase: buffer
-dates: "May 17-23, 2027"
+dates: "Jun 21-27, 2027"
+original_target: "May 17-23, 2027"
 course: "—"
 project: "—"
 hours_target: 2
@@ -17,7 +18,7 @@ tags:
   - spring-reset
 ---
 
-# Buffer 4 — Reset Before Capstone (May 17-23)
+# Buffer 4 — Reset Before Capstone (Jun 21-27, 2027)
 
 > Between Phase 7 (Agents) and Phase 8 (Production + Capstone).
 > **Mental reset before the final push.** Recharge, then ship.
@@ -32,6 +33,15 @@ tags:
 - [ ] Re-read [[../00-context-and-goal#Definition of done]] — are you on track?
 - [ ] Set up capstone repo: `aieng-p09-capstone`, monorepo with `backend/` + `frontend/`
 - [ ] Journal: "7 phases done" synthesis. What surprised you? What changed?
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed. Optional: sketch the capstone architecture on paper.
 
 ---
 

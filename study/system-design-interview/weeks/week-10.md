@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 10
 chapter: 6
-dates: "Nov 23-29, 2026"
+dates: "Nov 30 - Dec 6, 2026"
+original_target: "Nov 23-29, 2026"
 book_section: "Ch 6: consistency, failure handling, gossip, Merkle tree"
 video: "https://www.youtube.com/watch?v=Dwt8R0KPu7k"
 diagram: "[[../diagrams/04-key-value-store]]"
@@ -13,7 +14,7 @@ tags: [study, system-design, weekly]
 
 # Week 10 — Ch 6: Key-Value Store (Part 2) + Diagram
 
-> Dates: **Nov 23-29, 2026**
+> Dates: **Nov 30 - Dec 6, 2026**
 > Read: Ch 6 second half — consistency, failure handling, gossip protocol, Merkle tree
 > Watch: [How Key-Value Stores Work](https://www.youtube.com/watch?v=Dwt8R0KPu7k)
 > Draw: [[../diagrams/04-key-value-store]]
@@ -29,6 +30,15 @@ tags: [study, system-design, weekly]
 - [ ] Watch KV store video during commute/walk
 - [ ] Finish Ch 6: consistency models, gossip protocol, Merkle tree, write/read paths
 - [ ] **Draw KV store architecture from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] One endpoint served from cache; hit and miss latency both measured.
 
 ---
 

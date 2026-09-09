@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 9
 phase: 1
-dates: "Sep 3-9, 2026"
+dates: "Sep 14-20, 2026"
+original_target: "Sep 3-9, 2026"
 course: "C3 Building Systems (2/2)"
 project: "P1 main build"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 9 — Phase 1: App Basics
 
-> Dates: **Sep 3-9, 2026**
+> Dates: **Sep 14-20, 2026**
 > Course: **C3 Building Systems (2/2)**
 > 📚 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/k0pk1/introduction) — DeepLearning.AI
 > Project: **P1 main build**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P1 main build
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] CLI returns schema-valid JSON on 5 sample inputs; token count and $ cost printed per call.
 
 ---
 

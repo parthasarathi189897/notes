@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 14
 phase: 2
-dates: "Nov 2-8, 2026"
+dates: "Nov 16-22, 2026"
+original_target: "Nov 2-8, 2026"
 course: "C5 Building Apps w/ VDBs (2/2)"
 project: "P2 main build"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 14 — Phase 2: Embeddings
 
-> Dates: **Nov 2-8, 2026**
+> Dates: **Nov 16-22, 2026**
 > Course: **C5 Building Apps w/ VDBs (2/2)**
 > 📚 Course: [Building Applications with Vector Databases](https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/tl7on/introduction) — DeepLearning.AI + Pinecone
 > Project: **P2 main build**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P2 main build
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A top-5 query returns file + snippet + score + section metadata; index time and query latency logged.
 
 ---
 

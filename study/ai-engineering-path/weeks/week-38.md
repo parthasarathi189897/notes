@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 38
 phase: 6
-dates: "Apr 26 - May 2, 2027"
+dates: "May 31 - Jun 6, 2027"
+original_target: "Apr 26 - May 2, 2027"
 course: "(write week)"
 project: "P6 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 38 — Phase 6: Fine-tuning
 
-> Dates: **Apr 26 - May 2, 2027**
+> Dates: **May 31 - Jun 6, 2027**
 > ✍️ Write week: Ship P6 (fine-tuning decision memo).
 > Course: **(write week)**
 > Project: **P6 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P6 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 5 P6 acceptance criteria ticked; go/no-go recommendation stated; repo public.
 
 ---
 

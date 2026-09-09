@@ -1,15 +1,15 @@
 ---
 type: sysdesign-week
 week: b3
-dates: "Apr 19-25, 2027"
+dates: "May 3-9, 2027"
+original_target: "Apr 19-25, 2027"
 purpose: buffer
 status: not-started
 created: 2026-05-31
 tags: [study, system-design, weekly, buffer]
 ---
 
-# Buffer 3 — Apr 19-25, 2027
-
+# Buffer 3 — May 3-9, 2027
 > After the review + mock. Catch-up / rest week.
 > Optional: re-watch one favorite ByteByteGo video during a walk.
 
@@ -30,3 +30,12 @@ tags: [study, system-design, weekly, buffer]
 ---
 
 *Back to [[../progress-tracker]]*
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed.

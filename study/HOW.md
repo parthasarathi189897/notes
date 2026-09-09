@@ -10,8 +10,8 @@ All study is path-based. Each path is a self-contained folder in `study/`.
 
 | Path | Folder | Tracker |
 |------|--------|---------|
-| AI Engineering Path | `study/ai-engineering-path/` | `02-progress-tracker.md` |
-| System Design Interview | `study/system-design-interview/` | `progress-tracker.md` |
+| AI Engineering Path | `study/ai-engineering-path/` | **`PROGRESS.md`** |
+| System Design Interview | `study/system-design-interview/` | **`../ai-engineering-path/PROGRESS.md`** |
 
 | Action | How | AI? |
 |--------|-----|:---:|

@@ -4,7 +4,7 @@ project: 4
 parent: "[[README]]"
 phase: 4
 weeks: W27-30
-done_by: 2026-12-27
+done_by: 2027-04-11
 repo: aieng-p04-rag-v2-evaluated
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P4 — RAG v2 with Golden Set & Reranking
 
-> **Phase 4** · Weeks **27-30** · Done by **Dec 27, 2026**
+> **Phase 4** · Weeks **27-30** · Done by **Apr 11, 2027**
 > Repo: `aieng-p04-rag-v2-evaluated` · [GitHub URL TBD]
 > Full spec: [[README#🎯 Project 4 — RAG v2 with Golden Set & Reranking]]
 

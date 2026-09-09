@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 37
 phase: 6
-dates: "Apr 19-25, 2027"
+dates: "May 24-30, 2027"
+original_target: "Apr 19-25, 2027"
 course: "C12 Post-training (RL/RLHF intro)"
 project: "Memo outline"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 37 — Phase 6: Fine-tuning
 
-> Dates: **Apr 19-25, 2027**
+> Dates: **May 24-30, 2027**
 > Course: **C12 Post-training (RL/RLHF intro)**
 > 📚 Course: [Fine-tuning & RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/) — DeepLearning.AI
 > Project: **Memo outline**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** Memo outline
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] P6 memo outline covering all 8 required sections, one line each.
 
 ---
 

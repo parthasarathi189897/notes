@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 5
 chapter: 4
-dates: "Oct 12-18, 2026"
+dates: "Oct 19-25, 2026"
+original_target: "Oct 12-18, 2026"
 book_section: "Ch 4: rate limiter algorithms"
 video: "https://www.youtube.com/watch?v=YXkOdWBwqaA"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 5 — Ch 4: Rate Limiter (Part 1)
 
-> Dates: **Oct 12-18, 2026**
+> Dates: **Oct 19-25, 2026**
 > Read: Ch 4 first half — token bucket, leaking bucket, sliding window
 > Watch: [Rate Limiting — System Design](https://www.youtube.com/watch?v=YXkOdWBwqaA) — ByteByteGo
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch rate limiting video during commute/walk
 - [ ] Read Ch 4 first half: algorithms — token bucket, leaking bucket, fixed window, sliding window
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note comparing token bucket vs leaky bucket vs sliding window.
 
 ---
 

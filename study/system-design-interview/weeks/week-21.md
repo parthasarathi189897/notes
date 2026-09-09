@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 21
 chapter: 12
-dates: "Mar 8-14, 2027"
+dates: "Mar 22-28, 2027"
+original_target: "Mar 8-14, 2027"
 book_section: "Ch 12: WebSocket, 1:1 chat, message flow"
 video: "https://www.youtube.com/watch?v=okrR1KXNLtA"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 21 — Ch 12: Chat System (Part 1)
 
-> Dates: **Mar 8-14, 2027**
+> Dates: **Mar 22-28, 2027**
 > Read: Ch 12 first half — WebSocket, 1:1 chat, message flow
 > Watch: [Design A Chat System (WhatsApp, Messenger, Discord)](https://www.youtube.com/watch?v=okrR1KXNLtA)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch chat system video during commute/walk
 - [ ] Read Ch 12 first half: WebSocket protocol, 1:1 messaging, message flow
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note on connection state and delivery guarantees.
 
 ---
 

@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 46
 phase: 8
-dates: "Jun 28 - Jul 4, 2027"
+dates: "Aug 2-8, 2027"
+original_target: "Jun 28 - Jul 4, 2027"
 course: "C16 Auto Testing LLMOps"
 project: "P8 scaffold + capstone wiring"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 46 — Phase 8: Production
 
-> Dates: **Jun 28 - Jul 4, 2027**
+> Dates: **Aug 2-8, 2027**
 > Course: **C16 Auto Testing LLMOps**
 > 📚 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/courses/automated-testing-llmops/lesson/oy7qu/introduction) — DeepLearning.AI + CircleCI
 > Project: **P8 scaffold + capstone wiring**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P8 scaffold + capstone wiring
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p08-ci-eval-pipeline` is public; a GitHub Action runs unit tests on push.
 
 ---
 

@@ -4,7 +4,7 @@ project: 2
 parent: "[[README]]"
 phase: 2
 weeks: W13-15
-done_by: 2026-09-13
+done_by: 2026-11-29
 repo: aieng-p02-semantic-search
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P2 — Semantic Search Engine
 
-> **Phase 2** · Weeks **13-15** · Done by **Sep 13, 2026**
+> **Phase 2** · Weeks **13-15** · Done by **Nov 29, 2026**
 > Repo: `aieng-p02-semantic-search` · [GitHub URL TBD]
 > Full spec: [[README#🔍 Project 2 — Semantic Search Engine]]
 

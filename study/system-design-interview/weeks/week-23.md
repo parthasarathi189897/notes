@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 23
 chapter: 13
-dates: "Mar 22-28, 2027"
+dates: "Apr 5-11, 2027"
+original_target: "Mar 22-28, 2027"
 book_section: "Ch 13: trie, top-k, query service"
 video: "https://www.youtube.com/watch?v=TZ_LSourdUc"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 23 — Ch 13: Search Autocomplete (Part 1)
 
-> Dates: **Mar 22-28, 2027**
+> Dates: **Apr 5-11, 2027**
 > Read: Ch 13 first half — trie data structure, top-k queries
 > Watch: [Design Search Autocomplete System](https://www.youtube.com/watch?v=TZ_LSourdUc)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch autocomplete video during commute/walk
 - [ ] Read Ch 13 first half: trie, top-k algorithm, query service
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Trie sketched by hand with a worked top-k example.
 
 ---
 

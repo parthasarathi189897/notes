@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 47
 phase: 8
-dates: "Jul 5-11, 2027"
+dates: "Aug 9-15, 2027"
+original_target: "Jul 5-11, 2027"
 course: "(build week)"
 project: "P8 SHIP + capstone eval dashboard"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 47 — Phase 8: Production
 
-> Dates: **Jul 5-11, 2027**
+> Dates: **Aug 9-15, 2027**
 > 🎓 Capstone: Polish + deploy the capstone. Spec: [[../projects/p9-capstone]]
 > Course: **(build week)**
 > Project: **P8 SHIP + capstone eval dashboard**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P8 SHIP + capstone eval dashboard
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 7 P8 acceptance criteria ticked, including an intentional regression that fails the build.
 
 ---
 

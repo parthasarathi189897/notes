@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: B1
 phase: buffer
-dates: "Sep 17-24, 2026"
+dates: "Sep 21-24, 2026"
+original_target: "Sep 17-24, 2026"
 course: "—"
 project: "—"
 hours_target: 2
@@ -16,7 +17,7 @@ tags:
   - buffer
 ---
 
-# Buffer 1 — Catch-up & Review (Sep 17-24)
+# Buffer 1 — Catch-up & Review (Sep 21-24, 2026)
 
 > After Phase 1 (App Basics), just before your Sep travel buffer.
 > **Not a zero week** — use for catch-up or light review before you travel.
@@ -31,6 +32,15 @@ tags:
 - [ ] Read ahead: skim C4 (Vector DBs) intro lesson
 - [ ] Set up Ollama embedding model: `ollama pull nomic-embed-text`
 - [ ] Journal: write "Phase 0-1 synthesis" — what do I actually know now?
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed. Optional: finish anything W8-W9 left open.
 
 ---
 

@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 19
 chapter: 11
-dates: "Feb 22-28, 2027"
+dates: "Mar 8-14, 2027"
+original_target: "Feb 22-28, 2027"
 book_section: "Ch 11: feed publishing, fan-out approaches"
 video: "https://www.youtube.com/watch?v=KwgI-VJEr3E"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 19 — Ch 11: News Feed System (Part 1)
 
-> Dates: **Feb 22-28, 2027**
+> Dates: **Mar 8-14, 2027**
 > Read: Ch 11 first half — feed publishing, fan-out on write vs read
 > Watch: [News Feeds: Fan-Out, Caching & Scalability](https://www.youtube.com/watch?v=KwgI-VJEr3E)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch news feed video during commute/walk
 - [ ] Read Ch 11 first half: feed publishing, fan-out approaches
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: fan-out on write vs on read, with the tradeoff.
 
 ---
 

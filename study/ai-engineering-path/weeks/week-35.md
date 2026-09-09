@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 35
 phase: 6
-dates: "Apr 5-11, 2027"
+dates: "May 10-16, 2027"
+original_target: "Apr 5-11, 2027"
 course: "C11 Finetuning LLMs (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 35 — Phase 6: Fine-tuning
 
-> Dates: **Apr 5-11, 2027**
+> Dates: **May 10-16, 2027**
 > Course: **C11 Finetuning LLMs (1/2)**
 > 📚 Course: [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/information) — DeepLearning.AI + Lamini
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: 4 concrete signals that prompting and RAG have run out of road.
 
 ---
 

@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 3
 chapter: 3
 parent: "[[README]]"
-weeks: "W4 (Sep 7-13)"
+weeks: "W4 (Oct 12-18, 2026)"
+original_target: "W4 (Sep 7-13)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M3 — Write the Site's Own 4-Step Design Doc
 
-> **Ch 3: Interview Framework** · Week **W4 (Sep 7-13)** · 🔨 Build (write-up)
+> **Ch 3: Interview Framework** · Week **W4 (Oct 12-18, 2026)** · 🔨 Build (write-up)
 > Apply the book's 4-step framework to a system you're actually building. Best possible
 > way to internalize the framework.
 

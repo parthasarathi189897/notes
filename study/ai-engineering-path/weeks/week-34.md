@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 34
 phase: 5
-dates: "Mar 29 - Apr 4, 2027"
+dates: "May 3-9, 2027"
+original_target: "Mar 29 - Apr 4, 2027"
 course: "(build week)"
 project: "P5 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 34 — Phase 5: Accuracy
 
-> Dates: **Mar 29 - Apr 4, 2027**
+> Dates: **May 3-9, 2027**
 > 🔨 Build week: Ship P5 (eval harness).
 > Course: **(build week)**
 > Project: **P5 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P5 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 7 P5 acceptance criteria ticked; 30+ questions run in under 10 minutes from one command.
 
 ---
 

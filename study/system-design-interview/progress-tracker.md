@@ -13,7 +13,7 @@ diagrams_drawn: 0
 diagrams_total: 11
 start_date: 2026-08-17
 study_starts: 2026-08-31
-target_end: 2027-05-02
+target_end: 2027-05-16
 created: 2026-05-31
 updated: 2026-08-11
 tags:
@@ -23,6 +23,12 @@ tags:
 ---
 
 # 📊 Progress Tracker — System Design
+
+> ⛔ **SUPERSEDED for dates and status — see [[../ai-engineering-path/PROGRESS|PROGRESS]].**
+> This path was rebased 2026-09-07 onto a shared calendar with the AI path (W1 now starts Sep 7, 2026;
+> end **May 16, 2027**). The week tables below are pre-rebase. Chapter order and diagram checklist are
+> still accurate. **Do not plan from the dates in this file.**
+
 
 > **Open every Sunday.** 1 minute to mark progress. Runs parallel to AI Engineering Path.
 > **Study starts Aug 31, 2026** (after the Aug trip). Budget: **30 min/week active** + passive commute videos.

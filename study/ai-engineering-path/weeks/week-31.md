@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 31
 phase: 5
-dates: "Mar 8-14, 2027"
+dates: "Apr 12-18, 2027"
+original_target: "Mar 8-14, 2027"
 course: "C9 Improving Accuracy (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 31 — Phase 5: Accuracy
 
-> Dates: **Mar 8-14, 2027**
+> Dates: **Apr 12-18, 2027**
 > Course: **C9 Improving Accuracy (1/2)**
 > 📚 Course: [Improving Accuracy of LLM Applications](https://learn.deeplearning.ai/courses/improving-accuracy-of-llm-applications/lesson/zd29x/introduction) — DeepLearning.AI + Lamini
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: 3 accuracy levers ranked by cost-to-try against your own RAG.
 
 ---
 

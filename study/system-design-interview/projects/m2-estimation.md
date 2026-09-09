@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 2
 chapter: 2
 parent: "[[README]]"
-weeks: "W3 (Aug 31 - Sep 6)"
+weeks: "W3 (Oct 5-11, 2026)"
+original_target: "W3 (Aug 31 - Sep 6)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M2 — Estimate Your Real Family Traffic
 
-> **Ch 2: Back-of-Envelope Estimation** · Week **W3 (Aug 31 - Sep 6)** · 🔨 Build (write-up)
+> **Ch 2: Back-of-Envelope Estimation** · Week **W3 (Oct 5-11, 2026)** · 🔨 Build (write-up)
 > Tiny numbers, real method. You'll do the exact estimation drill from the book, but on
 > traffic you actually control.
 

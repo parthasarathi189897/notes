@@ -4,7 +4,7 @@ project: 8
 parent: "[[README]]"
 phase: 8
 weeks: W46-47
-done_by: 2027-04-25
+done_by: 2027-08-15
 repo: aieng-p08-ci-eval-pipeline
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P8 — CI Eval Pipeline
 
-> **Phase 8** · Weeks **46-47** · Done by **Apr 25, 2027**
+> **Phase 8** · Weeks **46-47** · Done by **Aug 15, 2027**
 > Repo: `aieng-p08-ci-eval-pipeline` · [GitHub URL TBD]
 > Full spec: [[README#🚦 Project 8 — CI Eval Pipeline]]
 >

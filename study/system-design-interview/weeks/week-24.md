@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 24
 chapter: 13
-dates: "Mar 29 - Apr 4, 2027"
+dates: "Apr 12-18, 2027"
+original_target: "Mar 29 - Apr 4, 2027"
 book_section: "Ch 13: trie update, scaling, filter layer"
 diagram: "[[../diagrams/11-search-autocomplete]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 24 — Ch 13: Search Autocomplete (Part 2) + Diagram
 
-> Dates: **Mar 29 - Apr 4, 2027**
+> Dates: **Apr 12-18, 2027**
 > Read: Ch 13 second half — trie update/rebuild, scaling, filter layer
 > Draw: [[../diagrams/11-search-autocomplete]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 13: trie update vs rebuild, scaling strategies, content filter
 - [ ] **Draw autocomplete architecture from memory** (data gathering + query service)
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Design note written: autocomplete over your own content.
 
 ---
 

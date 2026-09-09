@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 42
 phase: 7
-dates: "May 31 - Jun 6, 2027"
+dates: "Jul 5-11, 2027"
+original_target: "May 31 - Jun 6, 2027"
 course: "C14 Evaluating Agents (2/2)"
 project: "P7 tool integration"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 42 — Phase 7: Agents
 
-> Dates: **May 31 - Jun 6, 2027**
+> Dates: **Jul 5-11, 2027**
 > Course: **C14 Evaluating Agents (2/2)**
 > 📚 Course: [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/lesson/sqkza/introduction) — DeepLearning.AI + Arize
 > Project: **P7 tool integration**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P7 tool integration
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] 1-2 tools callable by the agent; tool calls and their results logged.
 
 ---
 

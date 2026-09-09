@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 22
 chapter: 12
-dates: "Mar 15-21, 2027"
+dates: "Mar 29 - Apr 4, 2027"
+original_target: "Mar 15-21, 2027"
 book_section: "Ch 12: group chat, presence, sync, storage"
 diagram: "[[../diagrams/10-chat-system]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 22 — Ch 12: Chat System (Part 2) + Diagram
 
-> Dates: **Mar 15-21, 2027**
+> Dates: **Mar 29 - Apr 4, 2027**
 > Read: Ch 12 second half — group chat, online presence, sync
 > Draw: [[../diagrams/10-chat-system]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 12: group chat fan-out, presence/heartbeat, message sync
 - [ ] **Draw chat system architecture from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A live WebSocket update is visible on two devices.
 
 ---
 

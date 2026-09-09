@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 11
 chapter: 7
-dates: "Dec 7-13, 2026"
+dates: "Dec 14-20, 2026"
+original_target: "Dec 7-13, 2026"
 book_section: "Ch 7: UUID vs Snowflake tradeoffs"
 video: "https://www.youtube.com/watch?v=Ay7A4o4AVr8"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 11 — Ch 7: Unique ID Generator (Part 1)
 
-> Dates: **Dec 7-13, 2026**
+> Dates: **Dec 14-20, 2026**
 > Read: Ch 7 — UUID vs DB auto-increment vs Twitter Snowflake
 > Watch: [Design a Unique ID Generator — Ch 7](https://www.youtube.com/watch?v=Ay7A4o4AVr8)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch unique ID video during commute/walk
 - [ ] Read Ch 7: compare UUID, DB auto-increment, Snowflake approaches
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Snowflake bit layout drawn from memory.
 
 ---
 

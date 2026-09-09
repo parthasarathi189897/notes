@@ -10,7 +10,7 @@ minutes_per_week: 30
 passive_listening: commute/walks (not counted)
 start_date: 2026-08-17
 study_starts: 2026-08-31
-target_end: 2027-05-02
+target_end: 2027-05-16
 status: not-started
 book: "System Design Interview – An Insider's Guide (Vol 1) by Alex Xu"
 created: 2026-05-31
@@ -25,7 +25,7 @@ tags:
 
 > **37-week, slow-paced plan** to build strong system design foundations (26 study + 11 buffer/travel weeks).
 > **Study starts Aug 31, 2026** — after a 🧳 travel block covering your Aug 17-26 trip. Budget: **30 min/week active** + passive YouTube during commute/walks.
-> 🧳 Travel-aware: protected blocks for the Aug + Sep trips, 🪔 Diwali, and a 🎄 2-week year-end break. End ~May 2, 2027.
+> 🧳 Travel-aware: protected blocks for the Aug + Sep trips, 🪔 Diwali, and a 🎄 2-week year-end break. End **May 16, 2027** (rebased 2026-09-07 — see [[../ai-engineering-path/PROGRESS|PROGRESS]]).
 > Runs **in parallel** with [[../ai-engineering-path/README|AI Engineering Path]].
 > One book. One YouTube channel. Draw diagrams — **and build a real family website** as an
 > E2E lab (see [[projects/README|Project track]]).

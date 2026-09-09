@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 39
 phase: 7
-dates: "May 3-9, 2027"
+dates: "Jun 7-13, 2027"
+original_target: "May 3-9, 2027"
 course: "C13 Agentic AI (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 39 — Phase 7: Agents
 
-> Dates: **May 3-9, 2027**
+> Dates: **Jun 7-13, 2027**
 > Course: **C13 Agentic AI (1/2)**
 > 📚 Course: [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome) — DeepLearning.AI
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note written: reflection vs planning vs tool use, with a failure example of each.
 
 ---
 

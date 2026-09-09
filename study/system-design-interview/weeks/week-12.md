@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 12
 chapter: 7
-dates: "Dec 14-20, 2026"
+dates: "Jan 11-17, 2027"
+original_target: "Dec 14-20, 2026"
 book_section: "Ch 7: Snowflake bit layout"
 diagram: "[[../diagrams/05-snowflake-id]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 12 — Ch 7: Unique ID Generator (Part 2) + Diagram
 
-> Dates: **Dec 14-20, 2026**
+> Dates: **Jan 11-17, 2027**
 > Read: Finish Ch 7 — Snowflake deep dive
 > Draw: [[../diagrams/05-snowflake-id]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 7: Snowflake implementation details
 - [ ] **Draw Snowflake ID bit layout from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Design note written: Snowflake vs UUID for your own DB keys.
 
 ---
 

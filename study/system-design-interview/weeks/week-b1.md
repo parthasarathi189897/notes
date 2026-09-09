@@ -1,15 +1,15 @@
 ---
 type: sysdesign-week
 week: b1
-dates: "Nov 30 - Dec 6, 2026"
+dates: "Dec 7-13, 2026"
+original_target: "Nov 30 - Dec 6, 2026"
 purpose: buffer
 status: not-started
 created: 2026-05-31
 tags: [study, system-design, weekly, buffer]
 ---
 
-# Buffer 1 — Nov 30 - Dec 6, 2026
-
+# Buffer 1 — Dec 7-13, 2026
 > After Ch 6 (Key-Value Store). Catch up or rest — 6 chapters done.
 
 ---
@@ -31,3 +31,12 @@ tags: [study, system-design, weekly, buffer]
 ---
 
 *Back to [[../progress-tracker]]*
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Nothing owed.

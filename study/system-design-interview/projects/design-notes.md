@@ -18,7 +18,7 @@ tags: [study, system-design, project, design-note]
 ---
 
 ## Ch 5 — Consistent Hashing
-> Week **W7-8 (Sep 28 - Oct 11)** · 📝 Design note
+> Week **W7-8 (Nov 9-22, 2026)** · 📝 Design note
 
 **Prompt:** Your site has one origin. When would you need consistent hashing?
 
@@ -34,7 +34,7 @@ Answer briefly:
 ---
 
 ## Ch 7 — Unique ID Generator
-> Week **W11-12 (Oct 26 - Nov 8)** · 📝 Design note
+> Week **W11-12 (Dec 14-20, 2026 + Jan 11-17, 2027)** · 📝 Design note
 
 **Prompt:** What generates primary keys in your DB today, and when would that break?
 
@@ -50,7 +50,7 @@ Answer briefly:
 ---
 
 ## Ch 9 — Web Crawler
-> Week **W15-16 (Nov 23 - Dec 6)** · 📝 Design note *(optional build: crawl your own site → sitemap)*
+> Week **W15-16 (Feb 8-21, 2027)** · 📝 Design note *(optional build: crawl your own site → sitemap)*
 
 **Prompt:** You don't need a web-scale crawler. But the sub-problems apply.
 
@@ -66,7 +66,7 @@ Answer briefly:
 ---
 
 ## Ch 11 — News Feed
-> Week **W19-20 (Dec 21 - Jan 3, 2027)** · 📝 Design note
+> Week **W19-20 (Mar 8-21, 2027)** · 📝 Design note
 
 **Prompt:** If the family wall became a real "family updates feed", how would you build it?
 
@@ -81,7 +81,7 @@ Answer briefly:
 ---
 
 ## Ch 13 — Search Autocomplete
-> Week **W23-24 (Jan 4-17, 2027)** · 📝 Design note *(optional build: trie autocomplete)*
+> Week **W23-24 (Apr 5-18, 2027)** · 📝 Design note *(optional build: trie autocomplete)*
 
 **Prompt:** Autocomplete over your site's content (short links, wall posts).
 

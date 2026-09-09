@@ -12,6 +12,10 @@ tags:
 
 # Projects Index
 
+> ⛔ **SUPERSEDED — see [[PROGRESS]].** Dates and project week-ranges in this file are pre-rebase
+> (it still shows P1 due Aug 9, 2026). Acceptance criteria below remain authoritative and unchanged.
+
+
 > 9 projects. **Each lives in its own GitHub repo** for portfolio clarity.
 > Each has **measurable acceptance criteria** in its dedicated note.
 > A project is "done" only when criteria pass. Not when the code "kinda works."

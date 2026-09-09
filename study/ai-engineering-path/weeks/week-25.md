@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 25
 phase: 3
-dates: "Jan 18-24, 2027"
+dates: "Feb 22-28, 2027"
+original_target: "Jan 18-24, 2027"
 course: "(build week)"
 project: "P3 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 25 — Phase 3: Core RAG
 
-> Dates: **Jan 18-24, 2027**
+> Dates: **Feb 22-28, 2027**
 > 🔨 Build week: Consolidate; RAG v1 improvements. Spec: [[../projects/p4-rag-v2-evaluated]]
 > Course: **(build week)**
 > Project: **P3 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P3 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 7 P3 acceptance criteria ticked; architecture diagram in the README; repo public.
 
 ---
 

@@ -4,7 +4,7 @@ project: 1
 parent: "[[README]]"
 phase: 1
 weeks: W8-10
-done_by: 2026-08-09
+done_by: 2026-10-11
 repo: aieng-p01-json-extractor
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P1 — LLM JSON Extractor / Classifier
 
-> **Phase 1** · Weeks **8-10** · Done by **Aug 9, 2026**
+> **Phase 1** · Weeks **8-10** · Done by **Oct 11, 2026**
 > Repo: `aieng-p01-json-extractor` · [GitHub URL TBD]
 > Full spec: [[README#🧱 Project 1 — LLM JSON Extractor / Classifier (W8-10)]]
 

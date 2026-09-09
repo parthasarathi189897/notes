@@ -4,7 +4,7 @@ project: 5
 parent: "[[README]]"
 phase: 5
 weeks: W33-34
-done_by: 2027-01-24
+done_by: 2027-05-09
 repo: aieng-p05-eval-harness
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P5 — Evaluation Harness
 
-> **Phase 5** · Weeks **33-34** · Done by **Jan 24, 2027**
+> **Phase 5** · Weeks **33-34** · Done by **May 9, 2027**
 > Repo: `aieng-p05-eval-harness` · [GitHub URL TBD]
 > Full spec: [[README#🔬 Project 5 — Evaluation Harness]]
 >

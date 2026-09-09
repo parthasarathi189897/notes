@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 10
 phase: 1
-dates: "Sep 10-16, 2026"
+dates: "Oct 5-11, 2026"
+original_target: "Sep 10-16, 2026"
 course: "(build week)"
 project: "P1 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 10 — Phase 1: App Basics
 
-> Dates: **Sep 10-16, 2026**
+> Dates: **Oct 5-11, 2026**
 > 🔨 Build week: Ship P1 (LLM JSON extractor).
 > Course: **(build week)**
 > Project: **P1 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P1 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 6 P1 acceptance criteria ticked; repo public; README under 300 words.
 
 ---
 

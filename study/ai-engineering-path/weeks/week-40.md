@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 40
 phase: 7
-dates: "May 10-16, 2027"
+dates: "Jun 14-20, 2027"
+original_target: "May 10-16, 2027"
 course: "C13 Agentic AI (2/2)"
 project: "P7 scaffold"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 40 — Phase 7: Agents
 
-> Dates: **May 10-16, 2027**
+> Dates: **Jun 14-20, 2027**
 > Course: **C13 Agentic AI (2/2)**
 > 📚 Course: [Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome) — DeepLearning.AI
 > Project: **P7 scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P7 scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p07-research-agent` is public; agent loop runs one query with every step logged.
 
 ---
 

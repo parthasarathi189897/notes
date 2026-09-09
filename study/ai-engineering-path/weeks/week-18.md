@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 18
 phase: 3
-dates: "Nov 30 - Dec 6, 2026"
+dates: "Dec 14-20, 2026"
+original_target: "Nov 30 - Dec 6, 2026"
 course: "C6 RAG (3/9)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 18 — Phase 3: Core RAG
 
-> Dates: **Nov 30 - Dec 6, 2026**
+> Dates: **Dec 14-20, 2026**
 > Course: **C6 RAG (3/9)**
 > 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] 3 chunking strategies run over the same document; chunk counts and boundary quality compared.
 
 ---
 

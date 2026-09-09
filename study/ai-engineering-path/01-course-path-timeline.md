@@ -19,6 +19,12 @@ tags:
 
 # Course Path & Timeline
 
+> ⛔ **SUPERSEDED for dates and status — see [[PROGRESS]].**
+> This file's week→content mapping contradicted `weeks/week-NN.md` by up to 2 weeks (it had P3 shipping
+> at W23, the week files say W25). The week files won. Dates here are stale as of 2026-09-07.
+> Kept for history. **Do not plan from this file.**
+
+
 > The 16 courses, the 9 projects, and the 52-week schedule at 3-4h/week.
 > 46 study weeks + 6 buffer weeks. Source path: [[../deeplearning_ai_engineering_path]]
 >

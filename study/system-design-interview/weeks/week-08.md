@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 8
 chapter: 5
-dates: "Nov 9-15, 2026"
+dates: "Nov 16-22, 2026"
+original_target: "Nov 9-15, 2026"
 book_section: "Ch 5: virtual nodes, real-world usage"
 video: "https://www.youtube.com/watch?v=zaRkONvyGr8"
 diagram: "[[../diagrams/03-consistent-hashing]]"
@@ -13,7 +14,7 @@ tags: [study, system-design, weekly]
 
 # Week 8 — Ch 5: Consistent Hashing (Part 2) + Diagram
 
-> Dates: **Nov 9-15, 2026**
+> Dates: **Nov 16-22, 2026**
 > Read: Ch 5 second half — virtual nodes, real-world usage
 > Watch: [Consistent Hashing — Gaurav Sen](https://www.youtube.com/watch?v=zaRkONvyGr8) ⚠️ Non-ByteByteGo
 > Draw: [[../diagrams/03-consistent-hashing]]
@@ -29,6 +30,15 @@ tags: [study, system-design, weekly]
 - [ ] Watch Gaurav Sen's consistent hashing video (better virtual node animation)
 - [ ] Finish Ch 5: virtual nodes, data rebalancing
 - [ ] **Draw hash ring from memory** with virtual nodes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Design note written: how I'd shard this at 1B users.
 
 ---
 

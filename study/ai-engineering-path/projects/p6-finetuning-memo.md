@@ -4,7 +4,7 @@ project: 6
 parent: "[[README]]"
 phase: 6
 weeks: W37-38
-done_by: 2027-02-21
+done_by: 2027-06-06
 repo: aieng-p06-finetuning-memo
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P6 — Fine-tuning Decision Memo
 
-> **Phase 6** · Weeks **37-38** · Done by **Feb 21, 2027**
+> **Phase 6** · Weeks **37-38** · Done by **Jun 6, 2027**
 > Repo: `aieng-p06-finetuning-memo` · [GitHub URL TBD]
 > Full spec: [[README#📝 Project 6 — Fine-tuning Decision Memo]]
 >

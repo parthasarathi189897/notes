@@ -25,6 +25,12 @@ tags:
 
 # 📊 Progress Tracker
 
+> ⛔ **SUPERSEDED for dates and status — see [[PROGRESS]].**
+> This file's week→content mapping contradicted `weeks/week-NN.md` by up to 2 weeks (it had P3 shipping
+> at W23, the week files say W25). The week files won. Dates here are stale as of 2026-09-07.
+> Kept for history. **Do not plan from this file.**
+
+
 > **This is your weekly home.** Open this every Sunday. Mark progress. Stay honest.
 > Budget: **3-4h/week × 46 study weeks + 6 buffer weeks = ~175h**. Real life-friendly cadence.
 > See [[weeks/_example-filled]] for how to fill your weekly notes.

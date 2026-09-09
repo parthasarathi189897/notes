@@ -4,7 +4,7 @@ project: 7
 parent: "[[README]]"
 phase: 7
 weeks: W40-43
-done_by: 2027-03-28
+done_by: 2027-07-18
 repo: aieng-p07-research-agent
 repo_url: ""
 status: not-started
@@ -17,7 +17,7 @@ tags:
 
 # P7 — Simple Research Agent
 
-> **Phase 7** · Weeks **40-43** · Done by **Mar 28, 2027**
+> **Phase 7** · Weeks **40-43** · Done by **Jul 18, 2027**
 > Repo: `aieng-p07-research-agent` · [GitHub URL TBD]
 > Full spec: [[README#🤖 Project 7 — Simple Research Agent]]
 >

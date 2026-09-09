@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 6
 chapter: 4
-dates: "Oct 19-25, 2026"
+dates: "Oct 26 - Nov 1, 2026"
+original_target: "Oct 19-25, 2026"
 book_section: "Ch 4: distributed rate limiter, race conditions"
 diagram: "[[../diagrams/02-rate-limiter]]"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 6 — Ch 4: Rate Limiter (Part 2) + Diagram
 
-> Dates: **Oct 19-25, 2026**
+> Dates: **Oct 26 - Nov 1, 2026**
 > Read: Ch 4 second half — distributed rate limiter, race conditions
 > Draw: [[../diagrams/02-rate-limiter]]
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Finish Ch 4: distributed rate limiter, race conditions, rules engine
 - [ ] **Draw rate limiter architecture from memory**
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A real 429 observed and screenshotted from your own site.
 
 ---
 

@@ -4,7 +4,7 @@ project: 9
 parent: "[[README]]"
 phase: 8
 weeks: W45-48
-done_by: 2027-05-02
+done_by: 2027-08-22
 repo: aieng-p09-capstone
 repo_url: ""
 deployed_url: ""
@@ -20,7 +20,7 @@ tags:
 
 # P9 — 🎉 Capstone: AI Engineering Knowledge Assistant
 
-> **Phase 8** · Weeks **45-48** · Done by **May 2, 2027**
+> **Phase 8** · Weeks **45-48** · Done by **Aug 22, 2027**
 > Repo: `aieng-p09-capstone` · [GitHub URL TBD]
 > Deployed: [URL TBD]
 > Demo video: [URL TBD]

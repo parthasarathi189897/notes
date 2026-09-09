@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 33
 phase: 5
-dates: "Mar 22-28, 2027"
+dates: "Apr 26 - May 2, 2027"
+original_target: "Mar 22-28, 2027"
 course: "C10 Eval & Debug GenAI"
 project: "P5 scaffold"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 33 — Phase 5: Accuracy
 
-> Dates: **Mar 22-28, 2027**
+> Dates: **Apr 26 - May 2, 2027**
 > Course: **C10 Eval & Debug GenAI**
 > 📚 Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/courses/evaluating-debugging-generative-ai/lesson/t7eoa/introduction) — DeepLearning.AI + W&B
 > Project: **P5 scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P5 scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p05-eval-harness` is public and runs one question end-to-end, writing a score.
 
 ---
 

@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 15
 chapter: 9
-dates: "Jan 25-31, 2027"
+dates: "Feb 8-14, 2027"
+original_target: "Jan 25-31, 2027"
 book_section: "Ch 9: seed URLs, frontier, BFS, content parsing"
 video: "https://www.youtube.com/watch?v=6u25GckPhLU"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 15 — Ch 9: Web Crawler (Part 1)
 
-> Dates: **Jan 25-31, 2027**
+> Dates: **Feb 8-14, 2027**
 > Read: Ch 9 first half — seed URLs, URL frontier, BFS traversal
 > Watch: [Design a Web Crawler](https://www.youtube.com/watch?v=6u25GckPhLU)
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch web crawler video during commute/walk
 - [ ] Read Ch 9 first half: seed URLs, frontier (priority queue), BFS, content parsing
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note on frontier design and politeness.
 
 ---
 

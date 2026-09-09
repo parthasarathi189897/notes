@@ -2,7 +2,8 @@
 type: sysdesign-milestone
 milestone: capstone
 parent: "[[README]]"
-weeks: "W25-26 (Jan 18-31, 2027)"
+weeks: "W25-26 (Apr 19 - May 2, 2027)"
+original_target: "W25-26 (Jan 18-31, 2027)"
 track: ship
 status: not-started
 created: 2026-08-11
@@ -11,7 +12,7 @@ tags: [study, system-design, project, milestone]
 
 # Capstone Wrap — Whole-Site Architecture + Walkthrough
 
-> **Review & Mock weeks** · Weeks **W25-26 (Jan 18-31, 2027)** · 🔨 Ship
+> **Review & Mock weeks** · Weeks **W25-26 (Apr 19 - May 2, 2027)** · 🔨 Ship
 > Tie every milestone together. This is the artifact you show and the story you tell.
 
 ---

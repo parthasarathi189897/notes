@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 7
 chapter: 5
-dates: "Oct 26 - Nov 1, 2026"
+dates: "Nov 9-15, 2026"
+original_target: "Oct 26 - Nov 1, 2026"
 book_section: "Ch 5: hash ring, naive approach vs consistent hashing"
 video: "https://www.youtube.com/watch?v=UF9Iqmg94tk"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 7 — Ch 5: Consistent Hashing (Part 1)
 
-> Dates: **Oct 26 - Nov 1, 2026**
+> Dates: **Nov 9-15, 2026**
 > Read: Ch 5 first half — hash ring, naive approach vs consistent hashing
 > Watch: [Consistent Hashing](https://www.youtube.com/watch?v=UF9Iqmg94tk) — ByteByteGo
 >
@@ -26,6 +27,15 @@ tags: [study, system-design, weekly]
 
 - [ ] Watch consistent hashing video during commute/walk
 - [ ] Read Ch 5 first half: hash ring basics, why naive hashing fails
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Hash ring drawn by hand; note on why mod-N rehashing hurts.
 
 ---
 

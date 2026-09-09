@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 17
 phase: 3
-dates: "Nov 23-29, 2026"
+dates: "Dec 7-13, 2026"
+original_target: "Nov 23-29, 2026"
 course: "C6 RAG (2/9)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 17 — Phase 3: Core RAG
 
-> Dates: **Nov 23-29, 2026**
+> Dates: **Dec 7-13, 2026**
 > Course: **C6 RAG (2/9)**
 > 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Ingestion note written: which loaders for md/PDF, and what breaks on each.
 
 ---
 

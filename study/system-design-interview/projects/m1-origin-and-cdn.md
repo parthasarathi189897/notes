@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 1
 chapter: 1
 parent: "[[README]]"
-weeks: "W1-2 (Aug 17-30)"
+weeks: "W1-2 (Sep 7-20, 2026)"
+original_target: "W1-2 (Aug 17-30)"
 track: build
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M1 — Origin on Mac mini + Cloudflare CDN/Cache
 
-> **Ch 1: Scale From Zero To Millions** · Weeks **W1-2 (Aug 17-30)** · 🔨 Build
+> **Ch 1: Scale From Zero To Millions** · Weeks **W1-2 (Sep 7-20, 2026)** · 🔨 Build
 > This milestone makes the Ch 1 architecture diagram *run in your house*.
 
 ---

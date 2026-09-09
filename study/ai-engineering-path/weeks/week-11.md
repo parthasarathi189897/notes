@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 11
 phase: 2
-dates: "Oct 5-11, 2026"
+dates: "Oct 12-18, 2026"
+original_target: "Oct 5-11, 2026"
 course: "C4 Vector DBs (1/2)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 11 — Phase 2: Embeddings
 
-> Dates: **Oct 5-11, 2026**
+> Dates: **Oct 12-18, 2026**
 > Course: **C4 Vector DBs (1/2)**
 > 📚 Course: [Vector Databases: from Embeddings to Applications](https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/g6d1d/vector-databases) — DeepLearning.AI + Weaviate
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A script embeds 10 strings and prints the similarity matrix; note written on cosine vs dot product.
 
 ---
 

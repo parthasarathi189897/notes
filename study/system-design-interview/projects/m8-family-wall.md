@@ -3,7 +3,8 @@ type: sysdesign-milestone
 milestone: 8
 chapter: 12
 parent: "[[README]]"
-weeks: "W21-22 (Jan 4-17, 2027)"
+weeks: "W21-22 (Mar 22 - Apr 4, 2027)"
+original_target: "W21-22 (Jan 4-17, 2027)"
 track: build-stretch
 status: not-started
 created: 2026-08-11
@@ -12,7 +13,7 @@ tags: [study, system-design, project, milestone]
 
 # M8 — WebSocket "Family Wall" (Stretch)
 
-> **Ch 12: Design a Chat System** · Weeks **W21-22 (Jan 4-17, 2027)** · 🔨 Build (stretch)
+> **Ch 12: Design a Chat System** · Weeks **W21-22 (Mar 22 - Apr 4, 2027)** · 🔨 Build (stretch)
 > A real WebSocket feature. Stretch because it's the most involved build — skip to a design
 > note if time is tight and you're behind.
 

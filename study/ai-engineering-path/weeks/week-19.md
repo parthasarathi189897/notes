@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 19
 phase: 3
-dates: "Dec 7-13, 2026"
+dates: "Jan 11-17, 2027"
+original_target: "Dec 7-13, 2026"
 course: "C6 RAG (4/9)"
 project: "—"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 19 — Phase 3: Core RAG
 
-> Dates: **Dec 7-13, 2026**
+> Dates: **Jan 11-17, 2027**
 > Course: **C6 RAG (4/9)**
 > 📚 Course: [Retrieval Augmented Generation (RAG)](https://www.coursera.org/learn/retrieval-augmented-generation-rag) — DeepLearning.AI (Coursera)
 > Project: **—**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Practice:** small code experiment from course labs
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Note comparing 2 embedding models on the P2 corpus, with recall numbers.
 
 ---
 

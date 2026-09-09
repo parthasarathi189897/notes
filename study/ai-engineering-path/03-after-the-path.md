@@ -12,7 +12,7 @@ tags:
 
 # 🚀 After the Path — What to Target Next
 
-> Read this **after Week 48 (May 2, 2027)** — capstone deployed, 9 repos shipped.
+> Read this **after Week 48 (Aug 22, 2027)** — capstone deployed, 9 repos shipped.
 > Don't read it now to plan ahead. Read it then to plan forward.
 >
 > The capstone is the floor, not the ceiling.

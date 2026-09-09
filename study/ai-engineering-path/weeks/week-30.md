@@ -2,7 +2,8 @@
 type: ai-eng-week
 week: 30
 phase: 4
-dates: "Mar 1-7, 2027"
+dates: "Apr 5-11, 2027"
+original_target: "Mar 1-7, 2027"
 course: "(build week)"
 project: "P4 SHIP"
 hours_target: 3.5
@@ -19,7 +20,7 @@ tags:
 
 # Week 30 — Phase 4: Adv Retrieval
 
-> Dates: **Mar 1-7, 2027**
+> Dates: **Apr 5-11, 2027**
 > 🔨 Build week: Ship P4 (RAG v2 + golden set).
 > Course: **(build week)**
 > Project: **P4 SHIP**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P4 SHIP
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] All 8 P4 acceptance criteria ticked, including 5 categorised failure modes; repo public.
 
 ---
 

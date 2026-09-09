@@ -2,9 +2,10 @@
 type: ai-eng-week
 week: 8
 phase: 1
-dates: "Aug 27 - Sep 2, 2026"
-course: "C3 Building Systems (1/2)"
-project: "P1 scaffold"
+dates: "Sep 7-13, 2026"
+original_target: "Aug 27 - Sep 2, 2026"
+course: C3 Building Systems (1/2)
+project: P1 scaffold
 hours_target: 3.5
 hours_logged: 0
 status: not-started
@@ -19,7 +20,7 @@ tags:
 
 # Week 8 — Phase 1: App Basics
 
-> Dates: **Aug 27 - Sep 2, 2026**
+> Dates: **Sep 7-13, 2026**
 > Course: **C3 Building Systems (1/2)**
 > 📚 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/courses/chatgpt-building-system/lesson/k0pk1/introduction) — DeepLearning.AI
 > Project: **P1 scaffold**
@@ -41,6 +42,15 @@ tags:
 - [ ] **Course:** complete this week's lessons
 - [ ] **Project:** P1 scaffold
 - [ ] **Notes:** 1-2 concept notes
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] Repo `aieng-p01-json-extractor` is public, with `pyproject.toml` and one passing test committed.
 
 ---
 

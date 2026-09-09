@@ -2,7 +2,8 @@
 type: sysdesign-week
 week: 4
 chapter: 3
-dates: "Oct 5-11, 2026"
+dates: "Oct 12-18, 2026"
+original_target: "Oct 5-11, 2026"
 book_section: "Ch 3: 4-step interview framework"
 video: "https://www.youtube.com/watch?v=i7twT3x5yv8"
 status: not-started
@@ -12,7 +13,7 @@ tags: [study, system-design, weekly]
 
 # Week 4 — Ch 3: Interview Framework
 
-> Dates: **Oct 5-11, 2026**
+> Dates: **Oct 12-18, 2026**
 > Read: Ch 3 — the 4-step framework
 > Watch: [System Design Interview: Step-By-Step](https://www.youtube.com/watch?v=i7twT3x5yv8) — ByteByteGo
 >
@@ -43,6 +44,15 @@ tags: [study, system-design, weekly]
 
 ### Step 4: Wrap up
 -
+
+---
+
+## ✅ Done when
+
+> The single checkable condition for this slot. Approved 2026-09-07.
+> A written note is not a shipped artifact.
+
+- [ ] A 4-step design doc for your own site is committed.
 
 ---
 

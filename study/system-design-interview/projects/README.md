@@ -7,7 +7,7 @@ project_name: "Family Website — Mac mini + Cloudflare"
 hosting: "Cloudflare Tunnel (no port-forward, home IP hidden)"
 repo: "family-site"
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-09-07
 tags:
   - study
   - system-design
@@ -15,6 +15,9 @@ tags:
 ---
 
 # Project Track — Family Website (E2E System Design Lab)
+
+> 🔄 **Rebased 2026-09-07.** Milestone dates below are live and match [[../../ai-engineering-path/PROGRESS|PROGRESS]].
+> They previously ran ~3 weeks ahead of this path's own tracker.
 
 > **One real project, run in parallel with the book.** A family website self-hosted on a
 > Mac mini, routed through a WiFi router and a Cloudflare-managed domain.
@@ -48,20 +51,20 @@ Ch 4 (edge rate limiting), and Ch 8 (short-link service)** — all three run liv
 
 | Ch | Book topic | Week | Milestone | Track | Spec |
 |----|-----------|------|-----------|:-----:|------|
-| 1 | Scale 0→millions | W1-2 | **M1** — Origin on Mac mini + Cloudflare CDN/cache in front | 🔨 | [[m1-origin-and-cdn]] |
-| 2 | Estimation | W3 | **M2** — Estimate real family traffic (QPS/storage/bandwidth) | 🔨 | [[m2-estimation]] |
-| 3 | Interview framework | W4 | **M3** — Write the site's own 4-step design doc | 🔨 | [[m3-design-doc]] |
-| 4 | Rate limiter | W5-6 | **M4** — Cloudflare WAF rate-limit rule, observe 429s | 🔨 | [[m4-rate-limiter]] |
-| 5 | Consistent hashing | W7-8 | Design note — "how I'd shard at 1B users" | 📝 | [[design-notes#ch-5-consistent-hashing]] |
-| 6 | Key-value store | W9-10 | **M5** — Add a cache layer (Redis/SQLite) to one endpoint | 🔨 | [[m5-cache-layer]] |
-| 7 | Unique ID generator | W11-12 | Design note — Snowflake vs UUID for your DB PKs | 📝 | [[design-notes#ch-7-unique-id]] |
-| 8 | URL shortener | W13-14 | **M6** — Real `go/xxx` short-link service on the site | 🔨 | [[m6-short-links]] |
-| 9 | Web crawler | W15-16 | Design note (optional: crawl own site → sitemap) | 📝 | [[design-notes#ch-9-web-crawler]] |
-| 10 | Notification system | W17-18 | **M7** — Contact form → email notification (1 channel) | 🔨 | [[m7-notifications]] |
-| 11 | News feed | W19-20 | Design note — fan-out for a family "updates" feed | 📝 | [[design-notes#ch-11-news-feed]] |
-| 12 | Chat system | W21-22 | **M8** — WebSocket "family wall" live updates (stretch) | 🔨 | [[m8-family-wall]] |
-| 13 | Search autocomplete | W23-24 | Design note (optional: trie autocomplete over content) | 📝 | [[design-notes#ch-13-autocomplete]] |
-| — | Review + mock | W25-26 | **Capstone wrap** — full ARCHITECTURE.md + walkthrough | 🔨 | [[capstone-wrap]] |
+| 1 | Scale 0→millions | W1-2 · **Sep 7-20, 2026** | **M1** — Origin on Mac mini + Cloudflare CDN/cache in front | 🔨 | [[m1-origin-and-cdn]] |
+| 2 | Estimation | W3 · **Oct 5-11, 2026** | **M2** — Estimate real family traffic (QPS/storage/bandwidth) | 🔨 | [[m2-estimation]] |
+| 3 | Interview framework | W4 · **Oct 12-18, 2026** | **M3** — Write the site's own 4-step design doc | 🔨 | [[m3-design-doc]] |
+| 4 | Rate limiter | W5-6 · **Oct 19 - Nov 1, 2026** | **M4** — Cloudflare WAF rate-limit rule, observe 429s | 🔨 | [[m4-rate-limiter]] |
+| 5 | Consistent hashing | W7-8 · **Nov 9-22, 2026** | Design note — "how I'd shard at 1B users" | 📝 | [[design-notes#ch-5-consistent-hashing]] |
+| 6 | Key-value store | W9-10 · **Nov 23 - Dec 6, 2026** | **M5** — Add a cache layer (Redis/SQLite) to one endpoint | 🔨 | [[m5-cache-layer]] |
+| 7 | Unique ID generator | W11-12 · **Dec 14-20, 2026 + Jan 11-17, 2027** | Design note — Snowflake vs UUID for your DB PKs | 📝 | [[design-notes#ch-7-unique-id]] |
+| 8 | URL shortener | W13-14 · **Jan 25 - Feb 7, 2027** | **M6** — Real `go/xxx` short-link service on the site | 🔨 | [[m6-short-links]] |
+| 9 | Web crawler | W15-16 · **Feb 8-21, 2027** | Design note (optional: crawl own site → sitemap) | 📝 | [[design-notes#ch-9-web-crawler]] |
+| 10 | Notification system | W17-18 · **Feb 22 - Mar 7, 2027** | **M7** — Contact form → email notification (1 channel) | 🔨 | [[m7-notifications]] |
+| 11 | News feed | W19-20 · **Mar 8-21, 2027** | Design note — fan-out for a family "updates" feed | 📝 | [[design-notes#ch-11-news-feed]] |
+| 12 | Chat system | W21-22 · **Mar 22 - Apr 4, 2027** | **M8** — WebSocket "family wall" live updates (stretch) | 🔨 | [[m8-family-wall]] |
+| 13 | Search autocomplete | W23-24 · **Apr 5-18, 2027** | Design note (optional: trie autocomplete over content) | 📝 | [[design-notes#ch-13-autocomplete]] |
+| — | Review + mock | W25-26 · **Apr 19 - May 2, 2027** | **Capstone wrap** — full ARCHITECTURE.md + walkthrough | 🔨 | [[capstone-wrap]] |
 
 ---
 
