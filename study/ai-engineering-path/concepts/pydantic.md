@@ -213,3 +213,29 @@ Ticket.model_validate_json('{"email": "x@y.com"}') # from JSON string — typica
 - Validators: https://docs.pydantic.dev/latest/concepts/validators/
 - Error Handling: https://docs.pydantic.dev/latest/errors/errors/
 - JSON: https://docs.pydantic.dev/latest/concepts/json/
+
+## Example
+```python
+from pydantic import BaseModel,Field, ValidationError
+
+class SupportMessage(BaseModel):
+	sender_email: str = Field(pattern=r'^[\w\.\+-]+@[\w-]+\.[a-zA-Z]{2,}$')
+	message_body: str = Field(min_length=5)
+	priority: int = Field(ge=1, le=5)
+	is_resolved: bool = False
+	
+SupportMessage(
+    sender_email= "jane@example.com",
+    message_body = "My order hasn't arrived",
+    priority = "3"  
+)
+
+try: 
+	SupportMessage(
+    	sender_email = "not-an-email",
+    	message_body = "hi",
+    	priority = 9
+	)
+except ValidationError as e:
+	print(e.errors())
+```
