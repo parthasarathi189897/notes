@@ -1,27 +1,71 @@
-# Concept Note: Prompt Chaining
+---
+type: concept
+domain: prompting
+difficulty: intermediate
+confidence: medium
+revisit_date: 2026-10-11
+created: 2026-09-18
+updated: 2026-09-18
+tags:
+  - concept
+  - prompting
+  - llm-apps
+aliases: [chaining prompts, prompt pipelines]
+phase: 1
+week_learned: 8
+related_courses:
+  - "C3 Building Systems with the ChatGPT API"
+---
 
-**Course:** C3 — Building Systems with the ChatGPT API
-**Confidence:** M
+# Prompt Chaining
 
-## What it is
+## In One Sentence
+> Prompt chaining is breaking one complex LLM task into a sequence of smaller, focused calls — where the output of one step becomes the input to the next — instead of trying to do everything in a single mega-prompt.
 
-Instead of giving an LLM one large, monolithic instruction that tries to do everything at once, break the task into multiple smaller, sequential LLM calls (and/or logic steps) — each with a narrow, well-defined job. The output of one step feeds into the next.
+## How It Works
 
-## Example (ecommerce chatbot)
+Instead of one prompt that tries to classify, extract, and respond all at once, you split the workflow into stages, each with a narrow job:
 
-1. **Step 1 — Classify:** System prompt categorizes the user query (e.g. "billing", "shipping", "product info")
-2. **Step 2 — Act:** Based on the category, invoke the appropriate tool/function (e.g. look up order status)
-3. **Step 3 — Respond:** A second LLM call takes the tool's output and synthesizes a natural-language response for the customer
+```
+User input
+   │
+   ▼
+[Step 1: Classify intent]  →  category
+   │
+   ▼
+[Step 2: Extract structured fields]  →  JSON (category-specific schema)
+   │
+   ▼
+[Step 3: Generate response]  →  final text, grounded in step 1+2 output
+```
 
-Each step is isolated — the classifier doesn't need to know how to use tools, and the response-synthesizer doesn't need to know how classification works.
+Each step is its own API call with its own focused prompt. Later steps can also **branch** based on earlier output — e.g. only run the "refund" extraction schema if step 1 classified the message as a refund request.
 
-## Why it matters (the full list)
+## Why Does It Matter?
+> Four concrete reasons chaining beats one giant prompt:
+> 1. **Context efficiency** — each call only sees what it needs, not the whole instruction set for every possible path.
+> 2. **Separation of concerns** — a classification prompt and a generation prompt have different failure modes; mixing them makes both harder to debug.
+> 3. **Cost/model optimization** — cheap, fast models can handle simple steps (classification); only route to a stronger, pricier model where the task actually needs it.
+> 4. **Debuggability** — when something goes wrong, you can inspect the output of each stage individually instead of guessing which part of one enormous prompt misfired.
 
-1. **Context / token efficiency** — each step only needs the context relevant to its narrow job, not the entire conversation + tool schemas + response guidelines all at once.
-2. **Separation of concerns / testability** — each step can be tested and debugged independently (e.g. "is the classifier accurate?" is a separate question from "does the final response sound good?").
-3. **Cost/model optimization** — simple steps (like classification) can run on a cheaper/faster model; only the step that genuinely needs strong reasoning (like final response synthesis) needs the expensive model. A single mega-prompt forces the whole pipeline to pay premium-model cost even for trivial sub-tasks.
-4. **Debuggability / observability** — when something goes wrong, you can inspect the output of each step individually to pinpoint exactly where the failure occurred (e.g. "the classifier was right, but the tool call failed") rather than guessing inside one opaque giant response.
+## Trade-offs
 
-## Key takeaway
+| Pros | Cons |
+|------|------|
+| Each step is simpler to prompt-engineer and test | More API calls → more latency, more cost per request |
+| Failures are localized to one step | More moving parts to orchestrate and log |
+| Cheaper models can be used for easy steps | Errors can compound across steps if not validated between them |
 
-Chaining isn't just an organizational nicety — it has direct cost, reliability, and debugging benefits. Treat each LLM call like a function with a single responsibility, the same way you would in regular software design.
+## Real-World Application
+> This is the shape of P1 (`aieng-p01-json-extractor`): classify → extract structured fields with Pydantic → (optionally) draft a suggested response — three narrow steps instead of one prompt asked to do it all, with validation between steps so a bad step-1 output doesn't silently corrupt step 2.
+
+## Related Concepts
+- [[pydantic]]
+- [[Model Evaluation]]
+- [[LLM Application]]
+
+## Sources
+> C3 Building Systems with the ChatGPT API — Week 8
+
+---
+%%Confidence guide: low = just learned, revisit in 7 days. medium = understand it, revisit in 30 days. high = could teach it.%%
